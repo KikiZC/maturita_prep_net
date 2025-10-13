@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c0759260d7eddf6",
+        "id": "ea4ddea5dfb59a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "1c932dd3c21038fa",
+            "id": "a0c5f316aa32fff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
+                "file": "Otázka 1.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Otázka 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Basic_markdown/Otázka 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Otázka 1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Basic_markdown/Otázka 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Otázka 1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Basic_markdown/Otázka 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Otázka 1"
             }
           }
         ]
@@ -169,6 +169,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c932dd3c21038fa",
-  "lastOpenFiles": []
+  "active": "a0c5f316aa32fff4",
+  "lastOpenFiles": [
+    "Obsidian/Otázka 1.md",
+    "Basic_markdown/Otázka 1.md",
+    "Otázka 1.md",
+    "Basic_markdown",
+    "Obsidian",
+    "imgs/q1/Bus_Network_Topology.png",
+    "Untitled.base",
+    "README.md",
+    "imgs/q1",
+    "imgs"
+  ]
 }
