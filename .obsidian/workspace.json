@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PVY/PVY-SPS_Okruh.md",
+                "file": "SPS/SPS_okruh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PVY-SPS_Okruh"
+              "title": "SPS_okruh"
             }
           }
         ]
@@ -183,11 +183,12 @@
   },
   "active": "f00e6382adc8bf02",
   "lastOpenFiles": [
+    "SPS/questions/q1.md",
+    "SPS/SPS_okruh.md",
+    "PVY/PVY-SPS_Okruh.md",
     "PVY/~$Y_MAT_TEMATA_2025_2026 spec SPS.doc",
     "PVY/PVY_MAT_TEMATA_2025_2026 spec SPS.doc",
     "SPS/questions/q2.md",
-    "PVY/PVY-SPS_Okruh.md",
-    "SPS/questions/q1.md",
     "SPS/imgs/q2/Simplex.png",
     "SPS/imgs/q2/collision-networking.jpg",
     "README.md",
@@ -196,7 +197,6 @@
     "SPS/imgs/q2/Nepotvrzeno 700108.crdownload",
     "SPS/imgs/q2",
     "SPS/imgs/New folder",
-    "SPS/SPS_okruh.md",
     "SPS/imgs/q1/Bus_Network_Topology.png",
     "().md",
     "SPS/~$S_MAT_TEMATA_2025_2026.docx",
@@ -205,7 +205,6 @@
     "SPS/~WRD0000.tmp",
     "fsdf.md",
     "SPS/q1.md",
-    "SPS/questions",
     "Otázka 1.md",
     "SPS/Otázka 1.md",
     "SPS/imgs/q1/Twisted_Pair_Cable.svg",
