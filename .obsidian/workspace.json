@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPS/questions/q2.md",
+                "file": "PVY/PVY-SPS_Okruh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "q2"
+              "title": "PVY-SPS_Okruh"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPS/questions/q2.md",
+                "file": "PVY/PVY-SPS_Okruh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of q2"
+              "title": "Outline of PVY-SPS_Okruh"
             }
           },
           {
@@ -181,13 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec9924806ff0690",
+  "active": "f00e6382adc8bf02",
   "lastOpenFiles": [
-    "SPS/questions/q1.md",
+    "PVY/~$Y_MAT_TEMATA_2025_2026 spec SPS.doc",
+    "PVY/PVY_MAT_TEMATA_2025_2026 spec SPS.doc",
     "SPS/questions/q2.md",
+    "PVY/PVY-SPS_Okruh.md",
+    "SPS/questions/q1.md",
     "SPS/imgs/q2/Simplex.png",
     "SPS/imgs/q2/collision-networking.jpg",
-    "PVY/~$Y_MAT_TEMATA_2025_2026 spec SPS.doc",
     "README.md",
     "SPS/imgs/q2/Nepotvrzeno 265967.crdownload",
     "SPS/imgs/q2/Freq_Multiplex.jpg",
