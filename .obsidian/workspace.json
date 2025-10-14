@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SPS/questions/q2.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "q2"
             }
           }
         ]
@@ -183,11 +183,13 @@
   },
   "active": "f00e6382adc8bf02",
   "lastOpenFiles": [
-    "SPS/questions/q2.md",
+    "SPS/imgs/q2/Simplex.png",
     "SPS/questions/q1.md",
     "SPS/imgs/q2/collision-networking.jpg",
-    "SPS/imgs/q2/Nepotvrzeno 265967.crdownload",
+    "PVY/~$Y_MAT_TEMATA_2025_2026 spec SPS.doc",
     "README.md",
+    "SPS/questions/q2.md",
+    "SPS/imgs/q2/Nepotvrzeno 265967.crdownload",
     "SPS/imgs/q2/Freq_Multiplex.jpg",
     "SPS/imgs/q2/Nepotvrzeno 700108.crdownload",
     "SPS/imgs/q2",
@@ -202,7 +204,6 @@
     "fsdf.md",
     "SPS/q1.md",
     "SPS/questions",
-    "SPS/New folder",
     "Otázka 1.md",
     "SPS/Otázka 1.md",
     "SPS/imgs/q1/Twisted_Pair_Cable.svg",
