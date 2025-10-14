@@ -181,14 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f00e6382adc8bf02",
+  "active": "bec9924806ff0690",
   "lastOpenFiles": [
-    "SPS/imgs/q2/Simplex.png",
     "SPS/questions/q1.md",
+    "SPS/questions/q2.md",
+    "SPS/imgs/q2/Simplex.png",
     "SPS/imgs/q2/collision-networking.jpg",
     "PVY/~$Y_MAT_TEMATA_2025_2026 spec SPS.doc",
     "README.md",
-    "SPS/questions/q2.md",
     "SPS/imgs/q2/Nepotvrzeno 265967.crdownload",
     "SPS/imgs/q2/Freq_Multiplex.jpg",
     "SPS/imgs/q2/Nepotvrzeno 700108.crdownload",
@@ -213,7 +213,6 @@
     "SPS/imgs/q1/Coax_Cable.svg",
     "SPS/imgs/q1/Ring_Network_Topology.png",
     "Obsidian/Otázka 1.md",
-    "Basic_markdown/Otázka 1.md",
-    "imgs/q1/Bus_Network_Topology.png"
+    "Basic_markdown/Otázka 1.md"
   ]
 }
