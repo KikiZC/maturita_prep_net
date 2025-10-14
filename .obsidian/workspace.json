@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f02220436a237bf",
+        "id": "511202e7c40dbd83",
         "type": "tabs",
         "children": [
           {
-            "id": "b8fe7336b35fc2ff",
+            "id": "f00e6382adc8bf02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,16 +181,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8fe7336b35fc2ff",
+  "active": "f00e6382adc8bf02",
   "lastOpenFiles": [
+    "SPS/imgs/q2/collision-networking.jpg",
+    "SPS/imgs/q2/Nepotvrzeno 265967.crdownload",
+    "README.md",
+    "SPS/questions/q2.md",
     "SPS/imgs/q2/Freq_Multiplex.jpg",
     "SPS/imgs/q2/Nepotvrzeno 700108.crdownload",
     "SPS/imgs/q2",
     "SPS/imgs/New folder",
     "SPS/SPS_okruh.md",
     "SPS/questions/q1.md",
-    "SPS/questions/q2.md",
-    "README.md",
     "SPS/imgs/q1/Bus_Network_Topology.png",
     "().md",
     "SPS/~$S_MAT_TEMATA_2025_2026.docx",
@@ -209,7 +211,6 @@
     "SPS/imgs/q1/Star_Network_Topology.png",
     "SPS/imgs/q1/Coax_Cable.svg",
     "SPS/imgs/q1/Ring_Network_Topology.png",
-    "SPS/imgs/q1",
     "Obsidian/Otázka 1.md",
     "Basic_markdown/Otázka 1.md",
     "imgs/q1/Bus_Network_Topology.png"
