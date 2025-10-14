@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otázka 1.md",
-                "mode": "source",
-                "source": false
+                "file": "SPS/questions/q1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Otázka 1"
+              "title": "q1"
             }
           }
         ]
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic_markdown/Otázka 1.md",
+                "file": "SPS/questions/q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Otázka 1"
+              "title": "Outgoing links from q1"
             }
           },
           {
@@ -142,21 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic_markdown/Otázka 1.md",
+                "file": "SPS/questions/q1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Otázka 1"
+              "title": "Outline of q1"
+            }
+          },
+          {
+            "id": "bec9924806ff0690",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,20 +186,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0c5f316aa32fff4",
+  "active": "bec9924806ff0690",
   "lastOpenFiles": [
+    "README.md",
+    "SPS/questions/q1.md",
+    "SPS/q1.md",
+    "SPS/questions",
+    "SPS/New folder",
     "Otázka 1.md",
+    "SPS/Otázka 1.md",
+    "SPS/imgs/q1/Twisted_Pair_Cable.svg",
+    "SPS/imgs/q1/T568_Wiring.jpg",
+    "SPS/imgs/q1/Optic_Fibre_Cable.jpg",
+    "SPS/imgs/q1/Star_Network_Topology.png",
+    "SPS/imgs/q1/Coax_Cable.svg",
+    "SPS/imgs/q1/Ring_Network_Topology.png",
+    "SPS/imgs/q1/Bus_Network_Topology.png",
+    "SPS/imgs/q1",
+    "SPS/imgs",
+    "PVY/PVY_MAT_TEMATA_2025_2026 spec SPS.doc",
+    "SPS/SPS_MAT_TEMATA_2025_2026.docx",
+    "PVY",
+    "New folder",
+    "SPS",
+    "SPS_MAT_TEMATA_2025_2026.docx",
     "Obsidian/Otázka 1.md",
     "Basic_markdown/Otázka 1.md",
-    "Basic_markdown",
-    "Obsidian",
-    "imgs/q1/Bus_Network_Topology.png",
-    "Untitled.base",
-    "README.md",
-    "imgs/q1",
-    "imgs"
+    "imgs/q1/Bus_Network_Topology.png"
   ]
 }
