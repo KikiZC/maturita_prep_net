@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPS/questions/q1.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "q1"
+              "title": "README"
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "f00e6382adc8bf02",
   "lastOpenFiles": [
     "SPS/questions/q2.md",
+    "SPS/questions/q1.md",
     "SPS/imgs/q2/collision-networking.jpg",
     "SPS/imgs/q2/Nepotvrzeno 265967.crdownload",
     "README.md",
@@ -192,7 +193,6 @@
     "SPS/imgs/q2",
     "SPS/imgs/New folder",
     "SPS/SPS_okruh.md",
-    "SPS/questions/q1.md",
     "SPS/imgs/q1/Bus_Network_Topology.png",
     "().md",
     "SPS/~$S_MAT_TEMATA_2025_2026.docx",
