@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec9924806ff0690",
+  "active": "b8fe7336b35fc2ff",
   "lastOpenFiles": [
+    "SPS/imgs/q2/Freq_Multiplex.jpg",
+    "SPS/imgs/q2/Nepotvrzeno 700108.crdownload",
+    "SPS/imgs/q2",
+    "SPS/imgs/New folder",
     "SPS/SPS_okruh.md",
     "SPS/questions/q1.md",
     "SPS/questions/q2.md",
@@ -207,9 +210,6 @@
     "SPS/imgs/q1/Coax_Cable.svg",
     "SPS/imgs/q1/Ring_Network_Topology.png",
     "SPS/imgs/q1",
-    "SPS/imgs",
-    "PVY/PVY_MAT_TEMATA_2025_2026 spec SPS.doc",
-    "SPS/SPS_MAT_TEMATA_2025_2026.docx",
     "Obsidian/Otázka 1.md",
     "Basic_markdown/Otázka 1.md",
     "imgs/q1/Bus_Network_Topology.png"
