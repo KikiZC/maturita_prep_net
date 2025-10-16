@@ -40,7 +40,7 @@ Co je formulář v MS Access a k čemu slouží, samostatný vs. nekonečný for
 
 Kam lze data z Accessu exportovat (např. Excel, textové soubory, CSV, XML) a jakým způsobem, a odkud lze data do Accessu importovat (např. Excel, CSV, jiné databáze, textové soubory) a jak, požadavky na strukturu textového souboru pro úspěšný import: typy souborů (XLSX, CSV, XML), oddělovače, názvy polí, datové typy.
 
-# 11. Základní pojmy z oblasti databází
+# [11. Základní pojmy z oblasti databází](/PVY/SQL/Q11.md)
 
 Jazyk SQL, jazyk pro vytváření databázových objektů, jazyk pro manipulaci s daty, příkazy, které do jazyka patří. Co znamená termín metadata, kde jsou uložena a co popisují. Jiné modely databází, kromě relačních. Další relační databáze, kromě SQL serveru. Problematika transakcí. Redundance a duplicita dat.
 
