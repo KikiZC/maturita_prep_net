@@ -2,5 +2,7 @@
   "promptDelete": false,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": false
 }
