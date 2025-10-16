@@ -44,7 +44,7 @@ Kam lze data z Accessu exportovat (např. Excel, textové soubory, CSV, XML) a j
 
 Jazyk SQL, jazyk pro vytváření databázových objektů, jazyk pro manipulaci s daty, příkazy, které do jazyka patří. Co znamená termín metadata, kde jsou uložena a co popisují. Jiné modely databází, kromě relačních. Další relační databáze, kromě SQL serveru. Problematika transakcí. Redundance a duplicita dat.
 
-# 12. Návrh databází
+# [12. Návrh databází](/PVY/SQL/Q12.md)
 
 Kroky, podle kterých postupujeme při návrhu databáze. Grafické zobrazení návrhu - E-R diagram. V čem spočívá princip relačních databází - pojem relace. Normální formy.
 
