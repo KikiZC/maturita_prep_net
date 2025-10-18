@@ -48,11 +48,11 @@ Jazyk SQL, jazyk pro vytváření databázových objektů, jazyk pro manipulaci 
 
 Kroky, podle kterých postupujeme při návrhu databáze. Grafické zobrazení návrhu - E-R diagram. V čem spočívá princip relačních databází - pojem relace. Normální formy.
 
-# 13. Vytváření a modifikace databází a tabulek, problematika indexů
+# [13. Vytváření a modifikace databází a tabulek, problematika indexů](/PVY/SQL/Q13.md)
 
 Příkazy pro vytváření změnu a odstranění databáze a databázových objektů. Problematika datových typů a indexů.
 
-# 14. Vkládání a modifikace dat v SQL
+# [14. Vkládání a modifikace dat v SQL](/PVY/SQL/Q14.md)
 
 Příkaz pro vkládání dat do tabulek (čtyři základní formy), příkaz pro aktualizaci dat v tabulce a odstraňování dat a UPDATE a DELETE. Transakční režim SQL serveru. Význam uživatelských transakcí.
 
