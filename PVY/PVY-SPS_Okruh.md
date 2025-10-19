@@ -56,7 +56,7 @@ Příkazy pro vytváření změnu a odstranění databáze a databázových obje
 
 Příkaz pro vkládání dat do tabulek (čtyři základní formy), příkaz pro aktualizaci dat v tabulce a odstraňování dat a UPDATE a DELETE. Transakční režim SQL serveru. Význam uživatelských transakcí.
 
-# 15. Dotazy v SQL
+# [15. Dotazy v SQL](/PVY/SQL/Q15.md)
 
 Základní příkaz pro dotazování do jedné nebo více propojených tabulek. Řazení, filtrování, používání funkcí pro vrácení hodnoty ve sloupci. Různé možnosti propojení tabulek. Používaní operátory.
 
