@@ -16,11 +16,11 @@ Vrstevnaté modely a architektury, model ISO/OSI a architektura TCP/IP - funkce 
 
 Přenos dat - paralelní a seriový, asynchronní a synchronní přenos dat, spojovaný a nespojovaný přenos, spojovaná a nespojovaná služba v TCP/IP - realizace, přepínání paketů a okruhů, virtuální spoj, přenos dat v základním  a přeloženém pásmu, modulace, modulační  a přenosová rychlost, šířka pásma, multiplex.
 
-## 5. Adresace v sítích architektury TCP/IP  
+## [5. Adresace v sítích architektury TCP/IP ](/SPS/questions/Q5)
 
 IP adresa - třídy IP adres, struktura IP adresy - adresa sítě a uzlu, adresa broadacstu, maska sítě, způsoby zápisu masky, variabilní a konstantní maska, dělení IP sítě na podsítě, výpočet podsítí, zjištění informací o síťovém prostředí v systému Windows a Linux; konfigurace síťového prostředí v systému Windows a Linux;
 
-## 6. Základní pojmy Active Directory
+## [6. Základní pojmy Active Directory](/SPS/questions/Q6)
 
 Active Directory, její logická a fyzická struktura, doména, doménový řadič, členský server, doménový strom, doménový les (struktura), vztahy mezi doménami (jednocestné, dvoucestné, tranzitivní), instalace a odinstalace Active Directory, režimy provozu domény – rozdíly, význam; USN, náhrobek, schéma Active Directory, globální katalog – vysvětlení pojmů.
 
