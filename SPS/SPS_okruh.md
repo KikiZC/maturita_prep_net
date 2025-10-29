@@ -40,7 +40,7 @@ Význam zásad skupin, druhy zásad skupin – místní a GPO (rozdíly); objekt
 
 Delegování přístupových práv v rámci A.D., význam jednotlivých práv, dědění práv, efektivní práva, konfigurace práv v A.D., NTFS - přístupová práva k souborovému systému, význam jednotlivých práv,  možnosti získání práv k souborovému systému (uživ. účet, skupina, uzlový objekt, dědění, potlačení dědičnosti, efektivní práva), delegování práv k souborovému systému, práva k domovskému adresáři uživatele, sdílená složka a práva ke sdílené složce; vytvoření a konfigurace domovského adresáře uživatelům v Active Directory.
 
-## 11. Směrování
+## [11. Směrování](/SPS/questions/Q11.md)
 
 Směrování - účel, druhy směrování (statické dynamické, adaptivní, neadaptivní, distribuované, centralizované, izolované) - vysvětlit, základní algoritmy (link-state, vector-distance, hierarchické) a protokoly (RIP),konfigurace statického a dynamického směrování v systému Windows a Linux; směrovací tabulka – příkazy pro zobrazení a konfigurace směrovací tabulky v systému Windows a Linux; význam položek ve směrovací tabulce,
 
