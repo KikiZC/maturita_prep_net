@@ -112,7 +112,7 @@ Možnosti instalce aplikací (zdrojové kódy, knihovny, kompilace, instalační
 
 DHCP služba v systému Linux - instalace a konfigurace DHCP serveru, klienta, dynamické  a statické přidělování IP dle MAC, nastavení ddns; DHCP služba v různých, vzájemně propojených sítích.
 
-## 29. Služba webového serveru Apache v systému Linux
+## [29. Služba webového serveru Apache v systému Linux](/SPS/questions/Q29)
 
 Web server Apache ( globální nastavení, nastavení defaultního serveru a konfigurace virtuálních serverů na https protokolu, virtuální hosting, Open SSL).
 
