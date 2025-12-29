@@ -68,7 +68,7 @@ Základní a dynamické disky, typy svazků dynamických disků – rozdíly a v
 
 Certifikační server, certifikační autorita, certifikáty, šifrování, druhy šifrování, symetrické a asymetrické šifrování, privátní a veřejný klíč, digitální a elektronický podpis; bezpečnostní cíle šifrování dat ( zabezpečení při přenosu dat, neodmítnutelnost odpovědnosti, zajištění integrity dat ), hash funkce a hash hodnota, časová razítka, instalace a konfigurace certifikační autority v prostředí Windows. Vystavení certifikátů  CA v prostředí Windows pro službu IIS. Vystavení osobních certifikátů uživatelů CA v prostředí Windows.
 
-## 18. Procesy a spouštění programů v systému Linux
+## [18. Procesy a spouštění programů v systému Linux](/SPS/questions/Q18)
 
 Spouštění programů na popředí a na pozadí; pojem proces, ukončení a pozastavení procesu na popředí a na pozadí (fg, bg, & , sekvenční a konkurenční spouštění úloh, rodičovský proces a potomek, skupina procesů a procesy patřící do jedné session,identifikace procesů (číslo úlohy, PID, PPID, PGID, SID), zabíjení procesů (kill ) a signály ( TERM, KILL, STOP, CONT, HUP ), informace o procesech (jobs, ps, top), priorita procesů (nice, renice), plánované spouštění úloh (at, cron, anacron - konfigurace, konfigurační soubory); význam souborového systému /proc, spouštění procesů pod jinou identitou (su, sudo).
 
