@@ -60,7 +60,7 @@ Příkaz pro vkládání dat do tabulek (čtyři základní formy), příkaz pro
 
 Základní příkaz pro dotazování do jedné nebo více propojených tabulek. Řazení, filtrování, používání funkcí pro vrácení hodnoty ve sloupci. Různé možnosti propojení tabulek. Používaní operátory.
 
-# 16. Pohledy, CTE, dočasné tabulky a tabulkové proměnné
+# [16. Pohledy, CTE, dočasné tabulky a tabulkové proměnné](/PVY/SQL/Q16.md)
 
 Rozdíl mezi pohledem a dotazem. Zjištění, zda pohled existuje, vytvoření pohledu a odstranění pohledu. Databáze tempDb a tři typy dočasných tabulek, které v mí mohou být uloženy. Obecný tabulkový výraz - Common table Expression. Tabulkové proměnné.
 
