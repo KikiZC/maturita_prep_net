@@ -1,10 +1,10 @@
 Maturitní témata z předmětu PROGRAMOVÉ VYBAVENÍ pro šk. rok 2025/2026
 
-# 1.    Nástroje programu MS Word
+# [1.    Nástroje programu MS Word](/PVY/MS/Word/Q1.md)
 
 Struktura wordovského dokumentu: znak, odstavec, strana, oddíl, dokument, záhlaví a zápatí, členění textu do sloupců. Práce s textem, základní úpravy formátování písma, práce s odstavci, vytváření a úpravy tabulek, vkládání objektů - obrázky, grafy, tvary, WordArt, SmartArt - možné pozice vloženého objektu, možnosti formátování a úprav objektů. Co je to styl. Typy stylů. Kde může být styl uložen. Co je to šablona. Co může být v šabloně uloženo. Vytváření stylů a šablon. Co je to hromadná korespondence a jak se používá. Práce s velkými dokumenty (obsah, rejstřík, seznam obrázků, revize).
 
-# 2.    MS Excel – základní pojmy
+# [2.    MS Excel – základní pojmy](/PVY/MS/Excel/Q2.md)
 
 Struktura excelovského dokumentu. Sešit, list, řádek, sloupec, buňka, omezení řádků a sloupců. Pojem adresa, typy hodnot, které lze vkládat do buněk - číslo, text, datum, čas. Kopírování a přesouvání obsahu buněk, práce se schránkou. Způsoby adresace A1. versus R1C1. Typy adres - relativní, absolutní, smíšená, pojmenování oblasti. Chování různých typů adres při kopírování obsahů buněk obsahující adresy (vzorců, odkazů). Možnosti vkládání dalších objektů do sešitu. Propojení obrazců s buňkou.
 
