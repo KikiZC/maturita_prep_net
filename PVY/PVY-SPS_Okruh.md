@@ -8,7 +8,7 @@ Struktura wordovského dokumentu: znak, odstavec, strana, oddíl, dokument, záh
 
 Struktura excelovského dokumentu. Sešit, list, řádek, sloupec, buňka, omezení řádků a sloupců. Pojem adresa, typy hodnot, které lze vkládat do buněk - číslo, text, datum, čas. Kopírování a přesouvání obsahu buněk, práce se schránkou. Způsoby adresace A1. versus R1C1. Typy adres - relativní, absolutní, smíšená, pojmenování oblasti. Chování různých typů adres při kopírování obsahů buněk obsahující adresy (vzorců, odkazů). Možnosti vkládání dalších objektů do sešitu. Propojení obrazců s buňkou.
 
-# 3.    Kontingenční tabulky v MS Excel
+# [3.    Kontingenční tabulky v MS Excel](/PVY/MS/Excel/Q3.md)
 
 Rozdíl mezi filtrem, souhrnem a kontingenční tabulkou, možnosti řazení, filtrování, vykopírování jedinečných hodnot, rozšířený filtr. Jak musí být strukturována data, aby bylo možné vytvořit kontingenční tabulku, souhrn nebo nastavit filtr. Jak musí být strukturována data, aby bylo možné nastavit přehled. Možnosti použití agregačních funkcí v kontingenčních tabulkách.
 
