@@ -76,7 +76,7 @@ Spouštění programů na popředí a na pozadí; pojem proces, ukončení a poz
 
 Vytvoření a konfigurace uživatelských účtů a skupin (useradd, groupadd, usermod, groupmod, userdel, groupdel, chage, groups, id, last, passwd, users, who, whoami), konfigurační soubory uživatelských účtů (useradd, login.defs, passwd,  shadow, group) a význam jednotlivých položek v těchto souborech.
 
-## 20. ACL a diskové kvóty
+## [20. ACL a diskové kvóty](/SPS/questions/Q20)
 
 Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl, getfacl), konfigurační soubory, defaultní ACL, kopírování, zálohování ACL. Diskové kvóty v Linuxu, kvóty na uživatele, kvóty na skupinu; aktivace kvótování (quotacheck, quotaon, quotaoff ), konfigurace kvót (edquota, setquota, quotastats); konfigurační soubory kvót.
 
