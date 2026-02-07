@@ -32,7 +32,7 @@ Význam a použití akčních dotazů v MS Access, aktualizační dotazy (UPDATE
 
 Co je sestava v MS Access a její jednotlivé části (záhlaví sestavy, záhlaví stránky, záhlaví skupiny, podrobnosti, zápatí skupiny a zápatí sestavy), možnosti zobrazení a úprav sestavy, vlastnosti sestavy, vlastnosti jednotlivých ovládacích prvků sestavy, použití nástrojů řazení a seskupování, tvorba souhrnů a agregací.
 
-# 9.    MS Access – tvorba formulářů
+# [9.    MS Access – tvorba formulářů](/PVY/Access/Q9.md)
 
 Co je formulář v MS Access a k čemu slouží, samostatný vs. nekonečný formulář (zobrazení více záznamů současně) a podformulář (formulář vložený do jiného formuláře pro zobrazení souvisejících dat) a příklady jejich použití. Vytvoření formuláře pomocí nástrojů MS Access, vlastnosti formuláře, vlastnosti ovládacích prvků formuláře (textové pole, seznam, tlačítko), do formulářů vkládat kódy maker prostřednictvím příkazových tlačítek pro automatizaci úloh či spuštění akcí, možnost převedení maker do VBA.
 
