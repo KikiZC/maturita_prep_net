@@ -108,7 +108,7 @@ Přístupová práva a atributy k souboru – vysvětlit, manipulace s právy a
 
 Možnosti instalce aplikací (zdrojové kódy, knihovny, kompilace, instalační balíčky), balíčkovací systém dnf (repozitáře - konfigurace, konfigurační soubory práce s dnf), výhody balíčkovacích systémů; rpm balíčky, řešení závislostí, vlastní příkaz rpm. Instalace ze zdrojových kódů – výhody a nevýhody kompilace - srovnání s balíčkovacím systémem. ( ldd, ./configure, make, makeinstall, gcc ).
 
-## 28. Služba DHCP v systému Linux
+## [28. Služba DHCP v systému Linux](/SPS/questions/Q28.md)
 
 DHCP služba v systému Linux - instalace a konfigurace DHCP serveru, klienta, dynamické  a statické přidělování IP dle MAC, nastavení ddns; DHCP služba v různých, vzájemně propojených sítích.
 
