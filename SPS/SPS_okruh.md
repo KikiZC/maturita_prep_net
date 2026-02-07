@@ -96,7 +96,7 @@ Pojem svazek, pojmy physical volume, volume group, logical volume, výhody proti
 
 Soubory zařízení, diskové oblasti, tvorba a konfigurace diskových oblastí (fdisk, sfdisk, parted),  základní pojmy souborového systému (inode, superblok, datový blok, adresářový blok, journal); adresáře – struktura a význam jednotlivých adresářů, typy  souborů ( symbolický odkaz, pevný odkaz, blokové zařízení, znakové zařízení, pojmenovaná roura, adresář), atributy souborů (suid, sgid, sticky, vlastník, skupinový vlastník), základní příkazy (man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar).
 
-## 25. Základy konfigurace síťové komunikace a služeb v Linuxu
+## [25. Základy konfigurace síťové komunikace a služeb v Linuxu](/SPS/questions/Q25.md)
 
 Základní konfigurace síťového rozhraní ( nmcli, ifconfig, ip, route, konfigurační soubory); DNS server (konfigurační soubory DNS serveru, spouštění DNS serveru a klienta, konfigurace primárního, sekundárního, caching  a forwarding DNS serveru, konfigurace poddomény - glue záznamy).
 
