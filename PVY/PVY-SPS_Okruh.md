@@ -28,7 +28,7 @@ Výběrové dotazy, použití kritérií (>, <, =, LIKE, BETWEEN, IS NULL, atd.)
 
 Význam a použití akčních dotazů v MS Access, aktualizační dotazy (UPDATE) pro změnu hodnot, odstraňovací dotazy (DELETE) pro mazání záznamů, vkládací dotazy (INSERT INTO) pro přidávání nových záznamů a vytvářecí dotazy (SELECT INTO) pro vytvoření nové tabulky z existujících dat, včetně použití kritérií (podmínek) a funkcí (datumové, textové).
 
-# 8.    MS Access – tvorba sestav
+# [8.    MS Access – tvorba sestav](/PVY/MS/Access/Q8.md)
 
 Co je sestava v MS Access a její jednotlivé části (záhlaví sestavy, záhlaví stránky, záhlaví skupiny, podrobnosti, zápatí skupiny a zápatí sestavy), možnosti zobrazení a úprav sestavy, vlastnosti sestavy, vlastnosti jednotlivých ovládacích prvků sestavy, použití nástrojů řazení a seskupování, tvorba souhrnů a agregací.
 
