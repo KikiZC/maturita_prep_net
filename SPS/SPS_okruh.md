@@ -76,7 +76,7 @@ Spouštění programů na popředí a na pozadí; pojem proces, ukončení a poz
 
 Vytvoření a konfigurace uživatelských účtů a skupin (useradd, groupadd, usermod, groupmod, userdel, groupdel, chage, groups, id, last, passwd, users, who, whoami), konfigurační soubory uživatelských účtů (useradd, login.defs, passwd,  shadow, group) a význam jednotlivých položek v těchto souborech.
 
-## 20. ACL a diskové kvóty
+## [20. ACL a diskové kvóty](/SPS/questions/Q20)
 
 Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl, getfacl), konfigurační soubory, defaultní ACL, kopírování, zálohování ACL. Diskové kvóty v Linuxu, kvóty na uživatele, kvóty na skupinu; aktivace kvótování (quotacheck, quotaon, quotaoff ), konfigurace kvót (edquota, setquota, quotastats); konfigurační soubory kvót.
 
@@ -96,7 +96,7 @@ Pojem svazek, pojmy physical volume, volume group, logical volume, výhody proti
 
 Soubory zařízení, diskové oblasti, tvorba a konfigurace diskových oblastí (fdisk, sfdisk, parted),  základní pojmy souborového systému (inode, superblok, datový blok, adresářový blok, journal); adresáře – struktura a význam jednotlivých adresářů, typy  souborů ( symbolický odkaz, pevný odkaz, blokové zařízení, znakové zařízení, pojmenovaná roura, adresář), atributy souborů (suid, sgid, sticky, vlastník, skupinový vlastník), základní příkazy (man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar).
 
-## 25. Základy konfigurace síťové komunikace a služeb v Linuxu
+## [25. Základy konfigurace síťové komunikace a služeb v Linuxu](/SPS/questions/Q25.md)
 
 Základní konfigurace síťového rozhraní ( nmcli, ifconfig, ip, route, konfigurační soubory); DNS server (konfigurační soubory DNS serveru, spouštění DNS serveru a klienta, konfigurace primárního, sekundárního, caching  a forwarding DNS serveru, konfigurace poddomény - glue záznamy).
 
@@ -108,7 +108,7 @@ Přístupová práva a atributy k souboru – vysvětlit, manipulace s právy a
 
 Možnosti instalce aplikací (zdrojové kódy, knihovny, kompilace, instalační balíčky), balíčkovací systém dnf (repozitáře - konfigurace, konfigurační soubory práce s dnf), výhody balíčkovacích systémů; rpm balíčky, řešení závislostí, vlastní příkaz rpm. Instalace ze zdrojových kódů – výhody a nevýhody kompilace - srovnání s balíčkovacím systémem. ( ldd, ./configure, make, makeinstall, gcc ).
 
-## 28. Služba DHCP v systému Linux
+## [28. Služba DHCP v systému Linux](/SPS/questions/Q28.md)
 
 DHCP služba v systému Linux - instalace a konfigurace DHCP serveru, klienta, dynamické  a statické přidělování IP dle MAC, nastavení ddns; DHCP služba v různých, vzájemně propojených sítích.
 

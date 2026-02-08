@@ -12,27 +12,27 @@ Struktura excelovského dokumentu. Sešit, list, řádek, sloupec, buňka, omeze
 
 Rozdíl mezi filtrem, souhrnem a kontingenční tabulkou, možnosti řazení, filtrování, vykopírování jedinečných hodnot, rozšířený filtr. Jak musí být strukturována data, aby bylo možné vytvořit kontingenční tabulku, souhrn nebo nastavit filtr. Jak musí být strukturována data, aby bylo možné nastavit přehled. Možnosti použití agregačních funkcí v kontingenčních tabulkách.
 
-# 4.    Datumové a logické funkce, práce s textem a číslem v MS Excel
+# [4.    Datumové a logické funkce, práce s textem a číslem v MS Excel](/PVY/MS/Excel/Q4.md)
 
 Rozdíl mezi funkcemi DNES a NYNÍ, určení dne, měsíce, roku, čtvrtletí, dne v týdnu z data, tvorba data pomocí funkce DATUM, práce s funkcemi EOMONTH, EDATE. Práce s formátem data a zadávání času a datumu. Využití podmínky v excelu (KDYŽ, IFERROR, IFS, SWITCH) a použití logických operátorů (A, NEBO), použití vnořené podmínky. Práce excelu s různými datovými typy (číslo, text, datum/čas, logické hodnoty), jaké chyby mohou nastat při zadávání. Spojování textový řetězců pomocí operátoru „&“ nebo pomocí funkcí (CONCAT, TEXTJOIN), převody textových řetězců na hodnoty (HODNOTA, ZLEVA, ZPRAVA, ČÁST), další funkce (PROČISTIT, DÉLKA, HLEDAT, DOSADIT).
 
-# 5.    MS Access – tvorba tabulek a relací
+# [5. MS Access – tvorba tabulek a relací](/PVY/MS/Access/Q5.md)
 
 Pojem relační databáze. Tvorba ER diagramů.  Struktura databázové tabulky, vytváření tabulek, datové typy, zajištění datové integrity, vytváření primárních a cizích klíčů, defaultních hodnot polí, vstupní masky, ověřovacích pravidel a pravidel kontrolující hodnoty mezi dvěma poli.
 
-# 6.    MS Access – tvorba dotazů - dotazy výběrové, křížové a sjednocovací
+# [6.    MS Access – tvorba dotazů - dotazy výběrové, křížové a sjednocovací](/PVY/MS/Access/Q6.md)
 
 Výběrové dotazy, použití kritérií (>, <, =, LIKE, BETWEEN, IS NULL, atd.), operátory AND, OR, NOT, funkce pro práci s textem: LEFT, RIGHT, LEN, LCASE, UCASE, funkce pro práci s daty: DATE(), NOW(), YEAR(), MONTH(), DAY(), DATESERIAL(), DATEADD(), DATEDIFF(), DATEPART(), DATESERIAL(), křížové dotazy, použití souhrnných funkcí – SUM, AVG, MIN, MAX, COUNT, definice řádkových a sloupcových záhlaví. Sjednocovací dotazy UNION – sloučení výsledků více dotazů do jednoho výstupu.
 
-# 7.    MS Access – tvorba dotazů - dotazy akční
+# [7.    MS Access – tvorba dotazů - dotazy akční](/PVY/MS/Access/Q7.md)
 
 Význam a použití akčních dotazů v MS Access, aktualizační dotazy (UPDATE) pro změnu hodnot, odstraňovací dotazy (DELETE) pro mazání záznamů, vkládací dotazy (INSERT INTO) pro přidávání nových záznamů a vytvářecí dotazy (SELECT INTO) pro vytvoření nové tabulky z existujících dat, včetně použití kritérií (podmínek) a funkcí (datumové, textové).
 
-# 8.    MS Access – tvorba sestav
+# [8.    MS Access – tvorba sestav](/PVY/MS/Access/Q8.md)
 
 Co je sestava v MS Access a její jednotlivé části (záhlaví sestavy, záhlaví stránky, záhlaví skupiny, podrobnosti, zápatí skupiny a zápatí sestavy), možnosti zobrazení a úprav sestavy, vlastnosti sestavy, vlastnosti jednotlivých ovládacích prvků sestavy, použití nástrojů řazení a seskupování, tvorba souhrnů a agregací.
 
-# 9.    MS Access – tvorba formulářů
+# [9.    MS Access – tvorba formulářů](/PVY/Access/Q9.md)
 
 Co je formulář v MS Access a k čemu slouží, samostatný vs. nekonečný formulář (zobrazení více záznamů současně) a podformulář (formulář vložený do jiného formuláře pro zobrazení souvisejících dat) a příklady jejich použití. Vytvoření formuláře pomocí nástrojů MS Access, vlastnosti formuláře, vlastnosti ovládacích prvků formuláře (textové pole, seznam, tlačítko), do formulářů vkládat kódy maker prostřednictvím příkazových tlačítek pro automatizaci úloh či spuštění akcí, možnost převedení maker do VBA.
 
