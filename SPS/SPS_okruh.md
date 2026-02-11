@@ -24,7 +24,7 @@ IP adresa - třídy IP adres, struktura IP adresy - adresa sítě a uzlu, adresa
 
 Active Directory, její logická a fyzická struktura, doména, doménový řadič, členský server, doménový strom, doménový les (struktura), vztahy mezi doménami (jednocestné, dvoucestné, tranzitivní), instalace a odinstalace Active Directory, režimy provozu domény – rozdíly, význam; USN, náhrobek, schéma Active Directory, globální katalog – vysvětlení pojmů.
 
-## 7. Fyzická struktura Active Directory
+## [7. Fyzická struktura Active Directory](/SPS/questions/Q7.md)
 
 Vysvětlení pojmů fyzická struktura Active Directory, objekt lokality, replikace, druhy replikací, replikace intrasite a intersite – rozdíly, možnosti ovlivnění času replikace mezi řadiči A.D. v různých lokalitách, možnosti ovlivnění ověřování přihlašujících se uživatelů na konkrétním řadiči v konkrétní lokalitě, předvedení tvorby lokalit  a konfigurace procesů replikace.
 
@@ -44,7 +44,7 @@ Delegování přístupových práv v rámci A.D., význam jednotlivých práv, d
 
 Směrování - účel, druhy směrování (statické dynamické, adaptivní, neadaptivní, distribuované, centralizované, izolované) - vysvětlit, základní algoritmy (link-state, vector-distance, hierarchické) a protokoly (RIP),konfigurace statického a dynamického směrování v systému Windows a Linux; směrovací tabulka – příkazy pro zobrazení a konfigurace směrovací tabulky v systému Windows a Linux; význam položek ve směrovací tabulce,
 
-## 12. Služba DNS v systému Windows Server
+## [12. Služba DNS v systému Windows Server](/SPS/questions/Q12.md)
 
 Systém symbolických jmen v IP síti – možné způsoby  realizace, doménový systém – důvody realizace, princip funkce, DNS v Internetu – struktura domén, vyhledávání uzlu dle jména v DNS; doména, subdoména, zóna – vysvětlit pojmy, DNS servery – druhy (autoritativní, neautoritativní, primární, sekundární, cahing-only, forwarding-only), funkce v systému DNS, reverzní doména (zóna), kanonický název uzlu, alias uzlu – vysvětlit pojmy, základní záznamy v databázi DNS (A, CNAME, NS, SOA, PTR), vysvětlit druhy záznamů; příkaz nslookup. Konfigurace DNS serveru a DNS klienta v prostředí MS Windows s A.D. i bez. A.D..
 
