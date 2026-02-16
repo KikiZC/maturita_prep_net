@@ -68,7 +68,7 @@ Rozdíl mezi pohledem a dotazem. Zjištění, zda pohled existuje, vytvoření p
 
 Systémové procedury, kde jsou uloženy, rozdíl mezi procedurami začínajících sp_ a xp_. Rozdíl mezi funkcí a procedurou. Uživatelské procedury, vytvoření vlastní procedury. Možnosti a omezení.
 
-# 18. Kurzory - příkazy řízení toku a rozhodovací konstrukce
+# [18. Kurzory - příkazy řízení toku a rozhodovací konstrukce](/PVY/SQL/Q18.md)
 
 Kurzorové tabulky. Životní cyklus kurzoru. Příkazy pro vytvoření a práci s kurzorem. Využívání cyklu pro práci s kurzorem. Typy kurzorů. Příkazy řízení toku scriptu a rozhodovací konstrukce.
 
