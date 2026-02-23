@@ -68,15 +68,15 @@ Rozdíl mezi pohledem a dotazem. Zjištění, zda pohled existuje, vytvoření p
 
 Systémové procedury, kde jsou uloženy, rozdíl mezi procedurami začínajících sp_ a xp_. Rozdíl mezi funkcí a procedurou. Uživatelské procedury, vytvoření vlastní procedury. Možnosti a omezení.
 
-# 18. Kurzory - příkazy řízení toku a rozhodovací konstrukce
+# [18. Kurzory - příkazy řízení toku a rozhodovací konstrukce](/PVY/SQL/Q18.md)
 
 Kurzorové tabulky. Životní cyklus kurzoru. Příkazy pro vytvoření a práci s kurzorem. Využívání cyklu pro práci s kurzorem. Typy kurzorů. Příkazy řízení toku scriptu a rozhodovací konstrukce.
 
-# 19. Funkce systémové a uživatelské v SQL
+# [19. Funkce systémové a uživatelské v SQL](/PVY/SQL/Q19.md)
 
 Systémové funkce - důraz na agregační, matematické, data a času, řetězcové. Uživatelské funkce. Dva základní typy - skalární a tabulkové. Vytvoření vlastní funkce, skalární i tabulkové.
 
-# 20. CSS – tabulky, pozadí
+# [20. CSS – tabulky, pozadí](/PVY/WEB/Q20.md)
 
 HTML tabulky a jejich struktura, možnosti stylování tabulek v CSS – rámečky, barvy řádků a buněk, odsazení, zarovnání textu, pseudotřídy (:nth-child, :hover aj.). CSS jednotky – absolutní (px, pt, cm, mm) a relativní (em, rem, %, vw, vh aj.), jejich použití a kombinace. Stylování pozadí v CSS – vlastnosti background-color, background-image, background-repeat, background-position, background-attachment, background-size a další. Hodnoty cover a contain, jejich význam při přizpůsobení obrázku pozadí. Kombinace více pozadí, průhlednost, využití gradientů a jiných technik.
 
