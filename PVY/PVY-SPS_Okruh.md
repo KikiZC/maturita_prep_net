@@ -84,7 +84,7 @@ HTML tabulky a jejich struktura, možnosti stylování tabulek v CSS – rámeč
 
 Technologie pro tvorbu webových stránek – HTML, CSS, JavaScript, jejich role a propojení. Struktura HTML dokumentu, základní elementy a jejich atributy. Sémantické elementy (header, main, footer, nav, article, section, aside aj.) a jejich význam. Rozdíly mezi blokovými a inline elementy. Nástroje pro vývoj webových stránek – textové editory, IDE, webové prohlížeče a jejich vývojářské nástroje (DevTools), inspektor prvků, konzole, síťová komunikace, ladění stylů a skriptů. Základní pojmy webové tvorby. Struktura URL adresy.
 
-# 22.  HTML Formuláře
+# [22.  HTML Formuláře](/PVY/WEB/Q22.md)
 
 Význam a použití formulářů na webu. Element `<form>` a jeho základní atributy (action, method, enctype aj.). Formulářové prvky – `<input>` a jeho různé typy (text, password, email, number, checkbox, radio, file, date, color, range aj.), `<select>`, `<option>`, `<textarea>`, `<button>`, `<label>`, `<fieldset>`, `<legend>` a další. Atributy formulářových polí (name, value, placeholder, required, disabled, readonly, maxlength aj.). HTML validace formulářů. Propojení a zpracování formulářů JavaScriptem – čtení a nastavení hodnot, zpracování dat, události formulářů, validace na klientské straně. Odesílání dat metodami GET a POST.
 
