@@ -116,6 +116,6 @@ DHCP služba v systému Linux - instalace a konfigurace DHCP serveru, klienta, d
 
 Web server Apache ( globální nastavení, nastavení defaultního serveru a konfigurace virtuálních serverů na https protokolu, virtuální hosting, Open SSL).
 
-## 30. Služba FTP serveru v systému Linux
+## [30. Služba FTP serveru v systému Linux](/SPS/questions/Q30)
 
 Instalace a konfigurace síťových služeb ftp, pasivní a aktivní ftp server; anonymní ftp server, osobní ftp servery uživatelů - zabezpečený přístup, zabezpečený přenos pomocí SSL mezi ftp serverem a ftp klientem) a ssh (instalace a konfigurace ssh, ověřování přístupu pomocí hesel či osobních certifikátů uživatelů).
