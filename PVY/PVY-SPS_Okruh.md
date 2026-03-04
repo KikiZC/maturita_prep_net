@@ -88,7 +88,7 @@ Technologie pro tvorbu webových stránek – HTML, CSS, JavaScript, jejich role
 
 Význam a použití formulářů na webu. Element `<form>` a jeho základní atributy (action, method, enctype aj.). Formulářové prvky – `<input>` a jeho různé typy (text, password, email, number, checkbox, radio, file, date, color, range aj.), `<select>`, `<option>`, `<textarea>`, `<button>`, `<label>`, `<fieldset>`, `<legend>` a další. Atributy formulářových polí (name, value, placeholder, required, disabled, readonly, maxlength aj.). HTML validace formulářů. Propojení a zpracování formulářů JavaScriptem – čtení a nastavení hodnot, zpracování dat, události formulářů, validace na klientské straně. Odesílání dat metodami GET a POST.
 
-# 23.  CSS – selektory, responsivita
+# [23.  CSS – selektory, responsivita](/PVY/WEB/Q23.md)
 
 Selektory (různé typy – id, class, element, atribut…) a kombinace selektorů, pseudotřídy a pseudoelementy. Priorita CSS stylů v HTML dokumentu. Stylování textů, pozadí prvků, margin a padding.
 
