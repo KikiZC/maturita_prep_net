@@ -98,7 +98,7 @@ Responsivní zobrazení stránky – význam a příklady. Mobile-first a deskto
 
 CSS grid – princip, význam a využití. Základní vlastnosti pro rodiče a potomky. Definice sloupců a řádků. Jednotky fr, auto, minmax(), repeat(). Gap a mezery. Umístění prvků pomocí grid-row, grid-column, grid-area, grid-template-areas. Zarovnávání obsahu v gridu. Automatické rozmísťování prvků. Vhodné použití gridu vs. flex a jiné layout techniky.
 
-# 25. CSS Flex
+# [25. CSS Flex](/PVY/WEB/Q25.md)
 
 CSS flex – princip, význam a využití. Jednorozměrný layout systém (hlavní a křížová osa). Vlastnosti kontejneru: display: flex, flex-direction, flex-wrap, justify-content, align-items, align-content. Vlastnosti prvků: flex-grow, flex-shrink, flex-basis, zkratka flex, order, align-self. Rozdíly mezi flex a grid, kdy použít který přístup, možnost jejich kombinace. Flex vs. grid.
 
