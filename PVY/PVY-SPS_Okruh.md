@@ -94,7 +94,7 @@ Selektory (různé typy – id, class, element, atribut…) a kombinace selektor
 
 Responsivní zobrazení stránky – význam a příklady. Mobile-first a desktop-first. Media queries (@media) a různé způsoby použití. Význam absolutních a relativních jednotek.
 
-# 24. CSS Grid
+# [24. CSS Grid](/PVY/WEB/Q24.md)
 
 CSS grid – princip, význam a využití. Základní vlastnosti pro rodiče a potomky. Definice sloupců a řádků. Jednotky fr, auto, minmax(), repeat(). Gap a mezery. Umístění prvků pomocí grid-row, grid-column, grid-area, grid-template-areas. Zarovnávání obsahu v gridu. Automatické rozmísťování prvků. Vhodné použití gridu vs. flex a jiné layout techniky.
 
