@@ -80,7 +80,7 @@ Systémové funkce - důraz na agregační, matematické, data a času, řetězc
 
 HTML tabulky a jejich struktura, možnosti stylování tabulek v CSS – rámečky, barvy řádků a buněk, odsazení, zarovnání textu, pseudotřídy (:nth-child, :hover aj.). CSS jednotky – absolutní (px, pt, cm, mm) a relativní (em, rem, %, vw, vh aj.), jejich použití a kombinace. Stylování pozadí v CSS – vlastnosti background-color, background-image, background-repeat, background-position, background-attachment, background-size a další. Hodnoty cover a contain, jejich význam při přizpůsobení obrázku pozadí. Kombinace více pozadí, průhlednost, využití gradientů a jiných technik.
 
-# 21.  Weby a HTML
+# [21. Weby a HTML](/PVY/WEB/Q21.md)
 
 Technologie pro tvorbu webových stránek – HTML, CSS, JavaScript, jejich role a propojení. Struktura HTML dokumentu, základní elementy a jejich atributy. Sémantické elementy (header, main, footer, nav, article, section, aside aj.) a jejich význam. Rozdíly mezi blokovými a inline elementy. Nástroje pro vývoj webových stránek – textové editory, IDE, webové prohlížeče a jejich vývojářské nástroje (DevTools), inspektor prvků, konzole, síťová komunikace, ladění stylů a skriptů. Základní pojmy webové tvorby. Struktura URL adresy.
 
