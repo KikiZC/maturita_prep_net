@@ -80,25 +80,25 @@ Systémové funkce - důraz na agregační, matematické, data a času, řetězc
 
 HTML tabulky a jejich struktura, možnosti stylování tabulek v CSS – rámečky, barvy řádků a buněk, odsazení, zarovnání textu, pseudotřídy (:nth-child, :hover aj.). CSS jednotky – absolutní (px, pt, cm, mm) a relativní (em, rem, %, vw, vh aj.), jejich použití a kombinace. Stylování pozadí v CSS – vlastnosti background-color, background-image, background-repeat, background-position, background-attachment, background-size a další. Hodnoty cover a contain, jejich význam při přizpůsobení obrázku pozadí. Kombinace více pozadí, průhlednost, využití gradientů a jiných technik.
 
-# 21.  Weby a HTML
+# [21. Weby a HTML](/PVY/WEB/Q21.md)
 
 Technologie pro tvorbu webových stránek – HTML, CSS, JavaScript, jejich role a propojení. Struktura HTML dokumentu, základní elementy a jejich atributy. Sémantické elementy (header, main, footer, nav, article, section, aside aj.) a jejich význam. Rozdíly mezi blokovými a inline elementy. Nástroje pro vývoj webových stránek – textové editory, IDE, webové prohlížeče a jejich vývojářské nástroje (DevTools), inspektor prvků, konzole, síťová komunikace, ladění stylů a skriptů. Základní pojmy webové tvorby. Struktura URL adresy.
 
-# 22.  HTML Formuláře
+# [22.  HTML Formuláře](/PVY/WEB/Q22.md)
 
 Význam a použití formulářů na webu. Element `<form>` a jeho základní atributy (action, method, enctype aj.). Formulářové prvky – `<input>` a jeho různé typy (text, password, email, number, checkbox, radio, file, date, color, range aj.), `<select>`, `<option>`, `<textarea>`, `<button>`, `<label>`, `<fieldset>`, `<legend>` a další. Atributy formulářových polí (name, value, placeholder, required, disabled, readonly, maxlength aj.). HTML validace formulářů. Propojení a zpracování formulářů JavaScriptem – čtení a nastavení hodnot, zpracování dat, události formulářů, validace na klientské straně. Odesílání dat metodami GET a POST.
 
-# 23.  CSS – selektory, responsivita
+# [23.  CSS – selektory, responsivita](/PVY/WEB/Q23.md)
 
 Selektory (různé typy – id, class, element, atribut…) a kombinace selektorů, pseudotřídy a pseudoelementy. Priorita CSS stylů v HTML dokumentu. Stylování textů, pozadí prvků, margin a padding.
 
 Responsivní zobrazení stránky – význam a příklady. Mobile-first a desktop-first. Media queries (@media) a různé způsoby použití. Význam absolutních a relativních jednotek.
 
-# 24. CSS Grid
+# [24. CSS Grid](/PVY/WEB/Q24.md)
 
 CSS grid – princip, význam a využití. Základní vlastnosti pro rodiče a potomky. Definice sloupců a řádků. Jednotky fr, auto, minmax(), repeat(). Gap a mezery. Umístění prvků pomocí grid-row, grid-column, grid-area, grid-template-areas. Zarovnávání obsahu v gridu. Automatické rozmísťování prvků. Vhodné použití gridu vs. flex a jiné layout techniky.
 
-# 25. CSS Flex
+# [25. CSS Flex](/PVY/WEB/Q25.md)
 
 CSS flex – princip, význam a využití. Jednorozměrný layout systém (hlavní a křížová osa). Vlastnosti kontejneru: display: flex, flex-direction, flex-wrap, justify-content, align-items, align-content. Vlastnosti prvků: flex-grow, flex-shrink, flex-basis, zkratka flex, order, align-self. Rozdíly mezi flex a grid, kdy použít který přístup, možnost jejich kombinace. Flex vs. grid.
 
