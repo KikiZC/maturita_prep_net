@@ -43,6 +43,46 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Havárie a lastura
+content: Skupina britských školáků ztroskotá na opuštěném ostrově. Ralph a Čuňas najdou lasturu a jejím troubením svolají ostatní. Ralph je zvolen náčelníkem.
+
+date: Úvod
+title: První pravidla
+content: Ralph stanoví pravidla – kdo drží lasturu, má slovo. Nejdůležitějším úkolem je udržovat signální oheň na vrcholu hory pro případnou záchranu.
+
+date: Průběh
+title: Rozkol v týmu
+content: Jack, velitel sboru, se chce věnovat jen lovu prasat. Signální oheň vyhasne právě ve chvíli, kdy kolem ostrova pluje loď. Ralph a Jack se poprvé ostře pohádají.
+
+date: Krize
+title: Strach z obludy
+content: Mezi dětmi se šíří paranoia z neznámého zvířete. Jack využívá strachu k posílení své moci. Zakládá vlastní kmen divochů na Skalním hradě.
+
+date: Zlom
+title: Simonovo zjištění
+content: Simon objeví v džungli „Pána much“ (prasečí hlavu). Později zjistí, že obávaná obluda je jen mrtvý parašutista. Běží to říct ostatním.
+
+date: Tragédie
+title: Smrt Simona
+content: Simon vpadne doprostřed rituálního tance Jackova kmene. Divoši ho v šílenství a tmě považují za nestvůru a holýma rukama ho ubijí k smrti.
+
+date: Vyvrcholení (ÚRYVEK)
+title: Útok na Skalní hrad
+content: Jackovi divoši ukradnou Čuňasovi brýle. Ralph a Čuňas jdou za nimi na hrad vyjednávat (tady sedí tvůj úryvek). Roger shodí balvan, který zabije Čuňase a roztříští lasturu.
+
+date: ZÁVĚR
+title: Štvanice a záchrana
+content: Jackův kmen zapálí celý ostrov, aby vykouřil Ralpha z úkrytu. Ralph utíká na pláž, kde narazí na britského námořního důstojníka. Děti, zamazané krví a hlínou, se rozpláčou nad ztrátou nevinnosti.
+```
+
+---
+
 ## Další údaje k maturitě
 
 - **Smysl díla:** Ukázat rozdíl mezi civilizovaným chováním (demokracie) a pudovostí (totalita). Golding varuje, že zlo je přítomno v každém člověku a bez pravidel se může snadno projevit.

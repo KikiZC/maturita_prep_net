@@ -40,6 +40,50 @@
 
 ---
 
+## Děj a struktura (Čtyři zpěvy)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: 1. zpěv
+title: Májový večer
+content: Krásný večer u jezera. Jarmila čeká na břehu na svého milence, loupežníka Viléma. Příroda oslavuje lásku.
+
+date: 1. zpěv
+title: Krutá zpráva
+content: K Jarmile přijíždí Vilémův druh. Sdělí jí, že Vilém v žárlivosti zabil svého svůdce, aniž by věděl, že je to jeho otec. Vilém je ve vězení a čeká ho smrt. Jarmila páchá sebevraždu v jezeře.
+
+date: 2. zpěv
+title: Noc ve vězení
+content: Vilém sedí v cele a uvažuje o své vině a osudu. Uvědomuje si, že za jeho pád může otec, který ho v dětství vyhnal.
+
+date: 2. zpěv
+title: Strach z nicoty
+content: Vilém se děsí smrti ne jako konce, ale jako věčné prázdnoty a tmy. Filozofická pasáž o smyslu existence.
+
+date: Intermezzo I
+title: Sbor duchů
+content: Na popravišti se scházejí duchové a přírodní úkazy, aby připravili Vilémův pohřeb.
+
+date: 3. zpěv
+title: Cesta na popraviště
+content: Vilém je veden jarní krajinou ke kolu. Loučí se se zemí a oblaky („Země krásná, země milovaná“).
+
+date: 3. zpěv
+title: Poprava
+content: Vilém je popraven, jeho tělo je vpleteno do kola. Loupežníci truchlí nad svým pánem (Intermezzo II).
+
+date: 4. zpěv (ÚRYVEK)
+title: Návrat básníka
+content: Po sedmi letech se na prvního máje vrací k Bezdězu vypravěč (sám autor). Vidí Vilémovu lebku a zamýšlí se nad pomíjivostí času a vlastním dětstvím (tady sedí tvůj úryvek).
+
+date: ZÁVĚR
+title: Hynku! Viléme! Jarmilo!
+content: Autor se ztotožňuje s osudem svých hrdinů. Báseň končí slavným trojím zvoláním v nekonečném žalu a kráse máje.
+```
+
+---
+
 ## Ukázka z textu (Závěr básně)
 
 > [!example]

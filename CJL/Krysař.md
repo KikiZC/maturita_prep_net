@@ -39,6 +39,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Příchod do Hammeln
+content: Bezejmenný Krysař přichází do města Hammeln, které je zamořeno krysami. Seznamuje se s Agnes a ubytuje se u ní.
+
+date: Úvod
+title: Smlouva s konšely
+content: Krysař uzavírá s chamtivými konšely (Frolian a Gottlieb) smlouvu – zbaví město krys za 100 rýnských.
+
+date: Průběh
+title: Vyhnání krys
+content: Krysař hraje na svou píšťalu tak tichou píseň, že ji slyší jen krysy. Všechny je odvede do řeky Visery, kde se utopí.
+
+date: Zlom
+title: Zrada konšelů
+content: Konšelé v hostinci U Žíznivého člověka odmítají Krysaři zaplatit. Považují jeho práci za příliš snadnou a vysmějí se mu.
+
+date: Krize
+title: Tragédie Agnes
+content: Agnes zjistí, že čeká dítě s bývalým milencem Kristiánem. V zoufalství a strachu ze své viny spáchá sebevraždu skokem do propasti.
+
+date: Vyvrcholení
+title: Pomsta Krysaře
+content: Krysař, drcen ztrátou Agnes a znechucen zlobou města, začne hrát na píšťalu plnou silou. Obyvatelé města jej sledují v transu.
+
+date: Cesta
+title: Hora Koppel
+content: Krysař vede celý zástup lidí z města k hoře Koppel. Lidé věří, že je čeká vstup do zaslíbené země Sedmihradské.
+
+date: ZÁVĚR (ÚRYVEK)
+title: Propast
+content: Celý zástup i sám Krysař mizí v hluboké propasti na dně hory (tady sedí tvůj úryvek).
+
+date: Konec
+title: Přeživší
+content: Město osiřelo. Jako jediný přežije rybář Sepp Jörgen, kterému věci docházejí až s denním zpožděním, a opuštěné plačící nemluvně.
+```
+
+---
+
 ## Ukázka z textu (Závěr díla)
 
 > [!example]

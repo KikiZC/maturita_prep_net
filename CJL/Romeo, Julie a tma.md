@@ -45,6 +45,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Setkání v parku
+content: Student Pavel potkává v parku na lavičce židovskou dívku Ester. Ta nenastoupila do transportu a nemá kam jít. Pavel se rozhodne jí pomoci.
+
+date: Úvod
+title: Úkryt v pokojíku
+content: Pavel Ester ukryje v malém pokojíku vedle krejčovské dílny svého otce. Pokojík se stává jejich celým světem.
+
+date: Průběh
+title: Budování vztahu
+content: Pavel nosí Ester jídlo a knihy. Mezi oběma mladými lidmi vzniká hluboký milostný vztah, který je pro ně únikem z válečné reality.
+
+date: Zlom
+title: Heydrichiáda
+content: Po atentátu na Heydricha vypuká v Praze teror. Začínají hromadné popravy a domovní prohlídky. Strach v pokojíku narůstá (tady sedí tvůj úryvek).
+
+date: Krize
+title: Otcovo tajemství
+content: Pavlův otec zjistí, že syn v domě někoho schovává. I když má strach o rodinu, Ester neudá a synovi mlčky pomáhá.
+
+date: Konflikt
+title: Soused Rejsek
+content: Soused Rejsek, kolaborant a alkoholik, začne slídit kolem dílny. Pavel se ho snaží zastrašit, ale situace je neudržitelná.
+
+date: Vyvrcholení
+title: Estřino rozhodnutí
+content: Ester si uvědomuje, že svou přítomností ohrožuje život Pavla i jeho rodičů. V noci, kdy dům obchází hlídka, se rozhodne jednat.
+
+date: Zlom
+title: Útěk a výstřely
+content: Ester vyběhne z pokojíku na ulici, aby odlákala pozornost od domu. Je vzápětí zastřelena německou hlídkou.
+
+date: ZÁVĚR
+title: Tma a naděje
+content: Pavel najde mrtvou Ester na dlažbě. Novela končí jeho naprostým zoufalstvím, ale i poznáním, že jejich láska byla silnější než okolní tma.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

@@ -39,6 +39,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: ZAČÁTEK (ÚRYVEK)
+title: Sklizeň
+content: V 12. kraji je vylosována Primrose. Katniss se dobrovolně přihlásí místo své sestry jako splátce (tady sedí tvůj úryvek).
+
+date: Úvod
+title: Cesta do Kapitolu
+content: Katniss a Peeta cestují vlakem do Kapitolu. Setkávají se se svým mentorem Haymitchem, který je stále opilý, ale dává jim první rady.
+
+date: Příprava
+title: Stylisté a trénink
+content: Katniss se v Kapitolu stává „dívkou v plamenech“. Absolvuje trénink a Peeta v přímém přenosu vyzná Katniss lásku, což vyvolá u diváků senzaci.
+
+date: Průběh
+title: Roh hojnosti
+content: Hry začínají krutou bitvou o zásoby. Katniss utíká hluboko do lesa, aby přežila. Najde vodu a snaží se vyhýbat ostatním splátcům.
+
+date: Přátelství
+title: Spojenectví s Routou
+content: Katniss se spojí s malou Routou (Rue) z 11. kraje. Společně zničí zásoby nejsilnějších splátců (Profesionálů). Routa je vzápětí zabita.
+
+date: Změna
+title: Změna pravidel
+content: Organizátoři vyhlásí, že vyhrát může dvojice ze stejného kraje. Katniss začne hledat zraněného Peetu. Najde ho v bahně u potoka.
+
+date: Krize
+title: Péče o Peetu
+content: Katniss se o Peetu stará v jeskyni. Hraje pro diváky zamilovanost, aby od sponzorů dostala léky a jídlo. Tím mu zachrání život.
+
+date: Finále
+title: Boj u Rohu hojnosti
+content: V aréně zbývají jen poslední splátci a zmutovaní vlci. Katniss a Peeta unikají na střechu Rohu hojnosti. Katniss nakonec skolí Catona šípem.
+
+date: ZÁVĚR
+title: Rulíkovec
+content: Kapitol náhle zruší pravidlo o dvojici. Katniss a Peeta raději zvolí společnou smrt a chtějí sníst otrávené bobule. Kapitol v poslední vteřině ustoupí a oba vyhlásí za vítěze.
+```
+
+---
+
 ## Ukázka z textu (Dobrovolné přihlášení)
 
 > [!example]

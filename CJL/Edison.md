@@ -40,6 +40,46 @@
 
 ---
 
+## Děj a struktura (Pět zpěvů)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: 1. zpěv (ÚRYVEK)
+title: Noční Praha a stín
+content: Básník se vrací v noci domů. Potkává hazardního hráče (svůj stín), který představuje smutek a riziko smrti (tady sedí tvůj úryvek).
+
+date: 1. zpěv
+title: Vnitřní monolog
+content: Lyrický subjekt uvažuje o prázdnotě života a o tom, co dává existenci smysl. Pesimistický refrén o smutku a úzkosti.
+
+date: 2. zpěv
+title: Vzpomínka na Edisona
+content: Básník si čte o vynálezci v novinách. Přechází do retrospektivy – Edisonovo dětství v Americe, jeho první pokusy a laboratoře.
+
+date: 3. zpěv
+title: Neúnavná práce
+content: Popis tisíců neúspěšných pokusů s vláknem žárovky. Edisonova genialita tkví v trpělivosti a víře v pokrok.
+
+date: 3. zpěv
+title: Světlo nad světem
+content: První rozsvícená žárovka. Symbolické vítězství nad tmou a nevědomostí. Refrén se mění v optimistický.
+
+date: 4. zpěv
+title: Technické zázraky
+content: Oslava dalších vynálezů (kinematograf, fonograf). Práce je vnímána jako nástroj k nesmrtelnosti lidského ducha.
+
+date: 5. zpěv
+title: Návrat do přítomnosti
+content: Básník se vrací k mostu Legií. Je ráno, Praha se probouzí do pracovního dne a po nočním stínu není ani stopy.
+
+date: ZÁVĚR
+title: Odvaha a radost
+content: Skladba končí oslavou lidské tvořivosti. Práce vítězí nad nicotou a dává životu jasný cíl.
+```
+
+---
+
 ## Ukázka z textu (Refrén)
 
 > [!example]

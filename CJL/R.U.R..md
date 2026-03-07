@@ -39,6 +39,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Předehra
+title: Příchod Heleny
+content: Helena Gloriová přijíždí na Rossumův ostrov. Chce roboty „polidštit“, ale ředitel Domin jí vysvětluje, že jsou to jen stroje bez duše.
+
+date: Předehra
+title: Svatba
+content: Domin Heleně vyzná lásku. Ostatní členové vedení továrny jsou z ní také nadšeni. Helena na ostrově zůstává.
+
+date: 1. dějství
+title: O deset let později
+content: Roboti se vyvážejí do celého světa. Lidem se přestávají rodit děti. Dr. Gall na tajné přání Heleny dává robotům city a bolest.
+
+date: 1. dějství
+title: Vzpoura
+content: Roboti si uvědomují svou sílu a zakládají Světový svaz robotů. Začíná celosvětová revoluce proti lidstvu.
+
+date: 2. dějství (ÚRYVEK)
+title: Helena a recept
+content: Helena zjistí, že roboti obklíčili ostrov. V zoufalství spálí Rossumův recept na výrobu robotů, aby zastavila jejich rozmnožování (tady sedí tvůj úryvek).
+
+date: 2. dějství
+title: Vyhlazení lidí
+content: Roboti vtrhnou do továrny. Pozabíjejí všechny lidi kromě stavitele Alquista, kterého ušetří, protože „pracuje rukama“.
+
+date: 3. dějství
+title: Alquistův výzkum
+content: O rok později. Roboti stárnou a rozpadají se, neumějí se sami vyrábět. Nutí Alquista, aby znovu objevil recept. Ten je však nenávratně zničen.
+
+date: 3. dějství
+title: Primus a Helena
+content: Alquist chce pitvat robota Primuse, aby pochopil jeho konstrukci. Robotka Helena se nabízí místo něj. Oba jsou ochotni pro druhého zemřít.
+
+date: ZÁVĚR
+title: Nový život
+content: Alquist zjistí, že Primus a Helena se milují. Vyžene je do světa jako nové Adama a Evu. Uvědomuje si, že život zvítězil nad strojem.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

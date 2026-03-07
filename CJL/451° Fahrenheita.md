@@ -45,6 +45,46 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Montagova práce
+content: Guy Montag je požárník, který s hrdostí pálí zakázané knihy. Svět je ovládán televizními stěnami a prázdnou zábavou.
+
+date: Úvod
+title: Setkání s Clarissou
+content: Montag potkává mladou sousedku Clarissu, která se ptá: „Jste šťastný?“ Její upřímnost v něm probudí pochybnosti o celém systému.
+
+date: Zlom
+title: Hořící stařena
+content: Při jednom zásahu stařena raději uhoří se svými knihami, než aby je opustila. Montag si v tajnosti schová jednu knihu pod kabát.
+
+date: Průběh (ÚRYVEK)
+title: Návštěva Beattyho
+content: Kapitán Beatty navštíví „nemocného“ Montaga a vysvětluje mu historii pálení knih (tady sedí tvůj úryvek). Beatty o knihách hodně ví, ale považuje je za nebezpečné.
+
+date: Krize
+title: Montagova proměna a Faber
+content: Montag vyhledá starého profesora Fabera a plánují, jak knihy zachránit a rozvrátit systém požárníků. Montag začíná číst a přemýšlet.
+
+date: Vyvrcholení
+title: Zrada a vražda Beattyho
+content: Montagova žena Mildred ho udá. Montag je nucen zapálit vlastní dům. V afektu zabije kapitána Beattyho plamenometem a dává se na útěk.
+
+date: Útěk
+title: Mechanický ohař
+content: Montaga pronásleduje mechanický ohař. Celé město v televizi sleduje přímý přenos honičky. Montagovi se nakonec podaří uniknout do řeky.
+
+date: ZÁVĚR
+title: Knižní lidé
+content: Montag narazí na skupinu vzdělanců, kteří si pamatují knihy zpaměti. Sledují, jak město ničí jaderná bomba. Montag se stává jednou z knih a jde s ostatními budovat nový svět.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

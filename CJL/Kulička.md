@@ -39,6 +39,46 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Odjezd dostavníku
+content: Deset obyvatel opouští pruským vojskem okupovaný Rouen v dostavníku. Cesta je vánicí zpomalena. Všichni mají hlad.
+
+date: Úvod
+title: Košík s jídlem
+content: Prostitutka Kulička je jediná, kdo má s sebou zásoby jídla. I když se jí ostatní zpočátku štítí, nezištně se s nimi o vše podělí.
+
+date: Průběh
+title: Zastávka v Totes
+content: Dostavník je zastaven v hostinci pruským důstojníkem. Ten odmítá výpravu pustit dál, dokud s ním Kulička nestráví noc.
+
+date: Krize
+title: Kuliččin odpor
+content: Kulička je hrdá vlastenka a Prusa nenávidí. Rozhodně odmítá se s ním vyspat, i když tím zdržuje celou skupinu.
+
+date: Zlom
+title: Nátlak společnosti
+content: Ostatní cestující začínají být nervózní. Manipulativně na Kuličku tlačí, používají morální i náboženské argumenty, aby ji přesvědčili.
+
+date: Vyvrcholení
+title: Sebeobětování
+content: Kulička pod nátlakem skupiny podlehne a stráví noc s pruským důstojníkem. Ostatní v hostinci oslavují budoucí odjezd.
+
+date: Odjezd
+title: Ranní lhostejnost
+content: Ráno skupina nasedá do dostavníku. Kulička se cítí ponížená a špinavá, ale ostatní s ní už odmítají mluvit.
+
+date: ZÁVĚR (ÚRYVEK)
+title: Ponížení v kočáře
+content: Cestující začnou jíst zásoby, které si koupili, ale s Kuličkou se nerozdělí. Kulička tiše pláče, zatímco ti „poctiví“ hňupové hltají (tady sedí tvůj úryvek).
+```
+
+---
+
 ## Ukázka z textu (Závěr)
 
 > [!example]

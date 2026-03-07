@@ -47,6 +47,46 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: ZAČÁTEK (ÚRYVEK)
+title: Majorův sen a vzpoura
+content: Starý kanec Major vypráví o budoucí revoluci (tady sedí tvůj úryvek). Po jeho smrti zvířata vyženou pana Jonese a ovládnou farmu.
+
+date: Úvod
+title: Sedm přikázání
+content: Zvířata napíšou na zeď 7 přikázání, kterými se mají řídit. Hlavní heslo: „Všechna zvířata jsou si rovna.“
+
+date: Bitva
+title: Bitva u kravína
+content: Pan Jones se pokusí farmu dobýt zpět, ale zvířata pod vedením Kuliše útok odrazí. Kuliš a Boxer dostanou vyznamenání.
+
+date: Rozkol
+title: Vyhnání Kuliše
+content: Napoleon a Kuliš se přou o stavbu větrného mlýna. Napoleon vypustí své psy, kteří Kuliše vyženou z farmy. Napoleon se stává jediným vůdcem.
+
+date: Průběh
+title: Squealerova propaganda
+content: Prase Squealer (Pištík) neustále mění historii i přikázání na zdi, aby ospravedlnil činy Napoleona. „Zvířata jsou si rovna, ale některá rovnější.“
+
+date: Tyranie
+title: Popravy zrádců
+content: Napoleon zneužívá strach. Několik zvířat se pod tlakem přizná k „pomoci Kulišovi“ a jsou na místě roztrhána psy. Přikázání „nezabiješ“ je potají přepsáno.
+
+date: Krize
+title: Boxerův osud
+content: Pracovitý kůň Boxer je po letech dřiny vyčerpán. Napoleon ho nechá odvézt na jatka, ale zvířatům tvrdí, že ho vezou do nemocnice.
+
+date: ZÁVĚR
+title: Prasata jako lidé
+content: O několik let později už prasata chodí po dvou, nosí biče a pijí alkohol. Ostatní zvířata hledí oknem a nedokážou rozeznat prase od člověka.
+```
+
+---
+
 ## Ukázka z textu (Úvodní setkání)
 
 > [!example] 

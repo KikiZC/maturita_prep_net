@@ -40,6 +40,46 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: ZAČÁTEK (ÚRYVEK)
+title: Bill v nemocnici
+content: Bill Masen se probouzí se zavázanýma očima. Zjišťuje, že po pozorování meteorického roje většina lidstva oslepla (tady sedí tvůj úryvek).
+
+date: Úvod
+title: Londýn v chaosu
+content: Bill vychází do ulic a vidí rozpad civilizace. Lidé jsou bezmocní, propuká hlad a rabování. Bill si uvědomuje svou výhodu vidoucího.
+
+date: Průběh
+title: Setkání s Josellou
+content: Bill zachrání Josellu před násilníkem. Společně začnou hledat cestu ven z Londýna a spojí se se skupinou organizovanou Cokerem.
+
+date: Krize
+title: Nucená služba
+content: Billa a další vidoucí unese skupina, která je nutí vodit slepce při shánění zásob. Bill je po nějaké době oddělen od Joselly.
+
+date: Cesta
+title: Putování na venkov
+content: Bill putuje anglickým venkovem a hledá Josellu. Trifidi jsou stále agresivnější a množí se. Jejich jedovatý osten se stává smrtelnou hrozbou.
+
+date: Vyvrcholení
+title: Obléhání farmy Shirning
+content: Bill konečně najde Josellu na farmě. Farma je však neustále pod útokem stovek trifidů, kteří čekají na každou chybu lidí.
+
+date: Zlom
+title: Vojenská diktatura
+content: Na farmu dorazí vojáci, kteří chtějí zavést tvrdý režim. Bill a ostatní odmítají a v noci pod rouškou tmy tajně uprchnou.
+
+date: ZÁVĚR
+title: Útěk na ostrov Wight
+content: Bill s rodinou odjíždí na bezpečný ostrov Wight, kde vidoucí lidé budují novou společnost a připravují se na budoucí boj s trifidy.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

@@ -43,6 +43,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Objev na Tana Masa
+content: Kapitán van Toch objeví v Tichomoří inteligentní mloky. Zjistí, že se umějí učit a jsou skvělí v lovu perel.
+
+date: Úvod (ÚRYVEK)
+title: Setkání v Praze
+content: Kapitán van Toch navštíví G. H. Bondyho v Praze a navrhne mu obchod s perlami (tady sedí tvůj úryvek). Bondy vidí v mlocích obrovský potenciál pro zisk.
+
+date: Rozmach
+title: Salamander-Syndicate
+content: Po smrti van Tocha přebírá mloky syndikát. Mloci už neloví jen perly, ale pracují na podmořských stavbách po celém světě.
+
+date: Průběh
+title: Polidštění mloků
+content: Lidstvo mloky vyzbrojuje a vzdělává. Zakládají se školy pro mloky, mluví se o mločí kultuře a právech, ale stále jsou vnímáni jako zboží a levná síla.
+
+date: Zlom
+title: Přemnožení
+content: Mloci se nekontrolovaně množí a začíná jim být moře malé. Potřebují víc mělkých pobřeží, což znamená kácení pevniny.
+
+date: Krize
+title: První konflikty
+content: Mloci začnou pomocí trhavin odlamovat kusy pevniny. První incidenty s lidmi přerůstají v otevřený globální konflikt.
+
+date: Vyvrcholení
+title: Chief Salamander
+content: Vůdce mloků Chief Salamander vysílá rozhlasem výzvu lidstvu. Pevnina musí ustoupit mločímu životnímu prostoru. Začíná systematické zaplavování států.
+
+date: ZÁVĚR
+title: Povondrovo procitnutí
+content: Pan Povondra, který kdysi van Tocha k Bondymu pustil, vidí mloky už i ve Vltavě. Trpí výčitkami, že zavinil konec světa.
+
+date: Konec
+title: Naděje v sebezničení
+content: Autor v monologu uvažuje o konci. Jedinou nadějí lidstva je, že se mloci začnou válčit mezi sebou (střet atlantských a lemurských mloků) a sami se vyhubí.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

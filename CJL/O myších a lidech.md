@@ -43,6 +43,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: U řeky Salinas
+content: George a Lennie jdou na nový ranč. George varuje Lennieho, aby byl zticha, až budou mluvit s šéfem. Lennie v kapse skrývá mrtvou myš, kterou chtěl hladit.
+
+date: Úvod
+title: Sen o farmě
+content: George Lenniemu vypráví jejich společný sen o vlastní farmě, kde bude Lennie chovat králíky a on bude svým pánem.
+
+date: Průběh
+title: Příchod na ranč
+content: Seznámení s ostatními – starý Candy, Slim a agresivní Curley. George varuje Lennieho před Curleyho ženou, která vyhledává potíže.
+
+date: Naděje
+title: Candyho nabídka
+content: Starý uklízeč Candy slyší jejich plán a nabídne své úspory. Sen o farmě se zdá být poprvé skutečně na dosah.
+
+date: Zlom
+title: Potyčka s Curleym
+content: Curley napadne Lennieho. Ten se zpočátku nebrání, ale na pokyn George Curleymu neuvěřitelnou silou rozdrtí ruku.
+
+date: Krize
+title: Smrt štěněte
+content: Lennie dostal štěně, ale ve své nevědomosti ho ve stodole příliš silně pohladil a zabil ho. Má strach, že mu George nedovolí chovat králíky.
+
+date: Vyvrcholení (ÚRYVEK)
+title: Tragédie s Curleyho ženou
+content: Curleyho žena najde Lennieho ve stodole. Dovolí mu sáhnout na své vlasy. Lennie v panice z jejího křiku jí nechtěně zlomí vaz (tady sedí tvůj úryvek).
+
+date: Útěk
+title: Návrat k řece
+content: Lennie utíká z ranče na místo, které mu George určil pro případ nouze. Curley s ostatními dělníky pořádají na Lennieho štvanici.
+
+date: ZÁVĚR
+title: Výstřel z milosti
+content: George najde Lennieho jako první. Naposledy mu vypráví o farmě a králících. Zatímco se Lennie šťastně dívá do dálky, George ho střelí do týla, aby ho ušetřil lynčování.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

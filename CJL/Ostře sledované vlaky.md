@@ -43,6 +43,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Návrat Miloše
+content: Miloš Hrma se vrací do služby po léčení na psychiatrii. Pokusil se o sebevraždu, protože při svém prvním milostném pokusu s Mášou sexuálně selhal.
+
+date: Úvod
+title: Stanice Kostomlaty
+content: Miloš pozoruje dění na stanici – hrdého přednostu chovajícího holuby a suverénního výpravčího Hubičku, který je Milošovým vzorem v mužnosti.
+
+date: Skandál
+title: Hubička a razítka
+content: Hubička v noci orazítkuje pozadí Zdeničce Svaté. To vyvolá vyšetřování komisí, ale pro Miloše je to důkaz Hubičkovy neodolatelnosti.
+
+date: Průběh
+title: Milošovo trápení
+content: Miloš se snaží u Hubičky zjistit, jak se zbavit své nesmělosti. Neustále se vrací k myšlenkám na Mášu a svou neschopnost být „mužem“.
+
+date: Zlom
+title: Příchod Viktorie
+content: Na stanici dorazí partyzánka Viktoria Freie. Přináší nálož k odpálení vlaku a zároveň pomůže Milošovi s jeho milostným traumatem.
+
+date: Naděje
+title: Milošova proměna
+content: Po noci s Viktorií se Miloš cítí jako dospělý muž. Získává sebevědomí a je odhodlán vykonat hrdinský čin.
+
+date: Vyvrcholení (ÚRYVEK)
+title: Plánování atentátu
+content: Hubička a Miloš připravují odpálení vlaku se střelivem. Miloš se dobrovolně hlásí, že bombu shodí ze semaforu (tady sedí tvůj úryvek).
+
+date: Akce
+title: Výbuch na trati
+content: Miloš úspěšně shodí výbušninu na projíždějící vlak. Je však spatřen a postřelen německým strážným z vlaku.
+
+date: ZÁVĚR
+title: Smrt v příkopu
+content: Miloš i postřelený Němec leží v příkopu. Miloš slyší výbuch vlaku a umírá, zatímco drží nepřítele za ruku a vnímá nesmyslnost války.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]

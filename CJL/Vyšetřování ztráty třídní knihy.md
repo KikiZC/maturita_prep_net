@@ -43,10 +43,51 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Příprava třídy
+content: Učitel se snaží připravit žáky (diváky) na příchod inspektora. Je v naprostém stresu, protože se před sedmi lety ztratila třídnice.
+
+date: Úvod
+title: Metoda přesvědčování
+content: Učitel zkouší na žáky různé metody – od laskavých proseb až po hysterické vyhrožování („Já ty hadry z vás sedřu!“).
+
+date: Zlom (ÚRYVEK)
+title: Příchod ředitele a inspektora
+content: Do třídy vpadnou nadřízení. Inspektor se okamžitě začne zajímat o vedlejší činnosti jako je práce v kůlně a na podzimku (tady sedí tvůj úryvek).
+
+date: Průběh
+title: Výslech žáků
+content: Inspektor zjišťuje, že třídní kniha stále chybí. Začíná absurdní výslech jednotlivých žáků, při kterém se řeší „zločiny“ jako kradení čepic.
+
+date: Krize
+title: Strach z postihu
+content: Učitel i ředitel se před inspektorem neustále ponižují a snaží se vinu svalit jeden na druhého nebo na žáky.
+
+date: Vyvrcholení
+title: Zemský školní rada
+content: Do třídy přichází nejvyšší autorita. Atmosféra strachu vrcholí. Rada používá psychologické nátlakové metody, aby viníka odhalil.
+
+date: Zmatek
+title: Učitelské přiznání
+content: Postupně vychází najevo, že za ztrátu knihy pravděpodobně může sám učitelský sbor, který ji někam nešikovně založil.
+
+date: ZÁVĚR
+title: Rozhřešení a stagnace
+content: Žáci jsou formálně omilostněni, ale systém zůstává stejný. Hra končí pocitem absurdity a zbytečnosti celého vyšetřování.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]
-> **Inspektor:** „Práce v kůlně a na podzimku se ve škole podceňuje a najednou prsk! Začnou se ztrácet čepice. Také tu máme jeden takový ošklivý, a neváhám říci, pane inspektore...“ **Ředitel:** „No, pane inspektore, nerad to říkám, ale musím si postěžovat. Učí se dobře, pane inspektore, to nemohu říct. Ale máme tady jednu takovou nepěknou, ošklivý případ.“
+> **Inspektor:** „Práce v kůlně a na podzimku se ve škole podceňuje a najednou prsk! Začnou se ztrácet čepice. Také tu máme jeden takový ošklivý, a neváhám říci, pane inspektore...“ 
+> **Ředitel:** „No, pane inspektore, nerad to říkám, ale musím si postěžovat. Učí se dobře, pane inspektore, to nemohu říct. Ale máme tady jednu takovou nepěknou, ošklivý případ.“
 
 ---
 

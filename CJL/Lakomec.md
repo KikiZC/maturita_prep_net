@@ -40,6 +40,50 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Harpagonův dům
+content: Lakomý vdovec Harpagon žije v Paříži se svými dětmi, Kleantem a Elisou. Neustále se bojí o svou kazetu s 10 000 zlatými dukáty, kterou zakopal v zahradě.
+
+date: Úvod
+title: Tajné lásky dětí
+content: Kleant miluje chudou Marianu a Elisa miluje Valéra, který se nechal u Harpagona najmout jako správce, aby jí byl nablízku.
+
+date: Zlom
+title: Harpagonovy plány
+content: Harpagon oznámí, že si chce sám vzít Marianu. Elisu chce provdat za starého Anselma (protože nevyžaduje věno) a Kleantovi vybral bohatou vdovu.
+
+date: Průběh
+title: Kleantova půjčka
+content: Kleant se snaží sehnat peníze od lichváře, aby mohl utéct s Marianou. Zjistí však, že oním lichvářem s drsnými podmínkami je jeho vlastní otec.
+
+date: Konflikt
+title: Hádka o Marianu
+content: Harpagon se dozví o Kleantových citech k Marianě. Mezi otcem a synem dojde k ostrému střetu a Harpagon Kleanta prokleje.
+
+date: Vyvrcholení (ÚRYVEK)
+title: Krádež pokladničky
+content: Sluha Čipera ukradne Harpagonovu kazetu s penězi. Harpagon propadá naprostému šílenství, podezřívá celé město i diváky v sále (tady sedí tvůj úryvek).
+
+date: Zmatek
+title: Výslech Valéra
+content: Harpagon obviňuje Valéra z krádeže. Valér se přiznává, ale myslí si, že mluví o své lásce k Elise. Dochází k řadě komických nedorozumění.
+
+date: Rozuzlení
+title: Rodinné setkání
+content: Přichází Anselm a ukáže se, že Valér a Mariana jsou jeho děti, které kdysi ztratil při ztroskotání lodi. Jsou to tedy bohatí šlechtici.
+
+date: ZÁVĚR
+title: Šťastný konec
+content: Kleant slíbí otci vrátit peníze, pokud mu dovolí sňatek s Marianou. Harpagon nadšeně souhlasí – peníze jsou pro něj víc než rodina. Anselm zaplatí obě svatby.
+```
+
+---
+
 ## Ukázka z textu (Harpagonův monolog)
 
 > [!example]

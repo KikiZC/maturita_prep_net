@@ -46,6 +46,54 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Prolog
+title: Spor rodů
+content: Ve Veroně trvá letitý nepřátelský vztah mezi rody Monteků a Kapuletů. Kněz nabádá k míru pod trestem smrti.
+
+date: 1. dějství
+title: Maškarní ples
+content: Romeo (Montek) vnikne tajně na ples Kapuletů. Potkává tam Julii a oba se do sebe na první pohled zamilují. Později zjistí, že jsou z nepřátelských rodů.
+
+date: 2. dějství
+title: Balkónová scéna
+content: Romeo vyzná Julii lásku v zahradě pod jejím balkónem. Julie souhlasí se sňatkem, pokud bude tajný.
+
+date: 2. dějství
+title: Tajná svatba
+content: Bratr Vavřinec oba mladé milence tajně oddá. Doufá, že tím ukončí nenávist mezi jejich rodinami.
+
+date: 3. dějství
+title: Souboj a krev
+content: Tybalt (Kapulet) vyprovokuje souboj a zabije Romeova přítele Merkucia. Romeo v afektu Tybalta zabije.
+
+date: 3. dějství
+title: Vyhnanství
+content: Kníže vypoví Romea z Verony. Romeo musí uprchnout do Mantovy. Julie je zdrcená, otec ji navíc nutí k sňatku s hrabětem Parisem.
+
+date: 4. dějství
+title: Vavřincův plán
+content: Vavřinec dá Julii uspávací nápoj, po kterém bude 42 hodin vypadat jako mrtvá. Tím se má vyhnout svatbě s Parisem a počkat na Romea.
+
+date: 5. dějství
+title: Tragický omyl
+content: Romeo nedostane včas zprávu o plánu. Dozví se jen, že Julie zemřela. Koupí si jed a spěchá do hrobky Kapuletů.
+
+date: 5. dějství (ÚRYVEK)
+title: Finále v hrobce
+content: Romeo v hrobce vypije jed a umírá. Julie se vzápětí probudí a najde ho mrtvého. V zoufalství se probodne jeho dýkou (tady sedí tvůj úryvek).
+
+date: ZÁVĚR
+title: Usmíření
+content: Nad těly svých dětí si Montek a Kapulet podají ruce. Jejich smrt konečně ukončila nesmyslnou nenávist obou rodů.
+```
+
+---
+
 ## Ukázka z textu (Závěrečná scéna)
 
 > [!example]

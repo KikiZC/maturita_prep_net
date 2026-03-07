@@ -45,10 +45,52 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: ZAČÁTEK (ÚRYVEK)
+title: Zasedání v nebi
+content: Komenský, Praotec Čech a Svatý Václav zasedají v komisi. Řeší se příchod nových duší (tady sedí tvůj úryvek o bůžcích a neumětelství).
+
+date: Úvod
+title: Výběr nových členů
+content: Komise potřebuje další členy. Svatý Václav navrhuje nové kandidáty, aby byla rada vyvážená a spravedlivá pro český národ.
+
+date: Průběh
+title: Jan Hus v komisi
+content: Do nebeského sboru je přijat Jan Hus. Je však velmi tvrdohlavý a každého, kdo s ním nesouhlasí, chce nechat upálit.
+
+date: Doplnění
+title: Příchod Babičky
+content: Do komise přichází babička Boženy Němcové. Je sice laskavá, ale rázně dohlíží na morálku a správné české vyjadřování všech členů.
+
+date: Krize
+title: Havlíčkovy zprávy
+content: Karel Havlíček Borovský přináší informace o první světové válce. Komise se dohaduje, jak se k válce postavit a koho z padlých vojáků spasit.
+
+date: Zlom
+title: Maršál Radecký
+content: Objevuje se maršál Radecký, který v nebi straší svou věrností monarchii. Komise ho nakonec odmítne jako přežitek starého světa.
+
+date: Vyvrcholení
+title: Rozhodnutí o osamostatnění
+content: Komise sleduje z výšky pád Rakouska-Uherska a definitivně se přiklání k myšlence samostatného československého státu.
+
+date: ZÁVĚR
+title: Oslava republiky
+content: Je rok 1918. Komise v čele s Komenským oslavuje vznik Československa. Hra končí společnou národní písní.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]
-> **Komenský:** „Praotče Čechu! Já ti jednou ty tvoje zatracené bůžky vezmu a vyhodím na smetiště. Podívej, ty jako pohan bys tady v křesťanském nebi správně neměl být. Proč jsem tě naučil číst?“ **Praotec:** „Všechno už jsem přečet. Až na toho Stanislava Krychli Neumanna.“ **Komenský:** „Stanislava Kostku Neumanna. Tak toho číst nemusíš. To je pohan jako ty.“
+> **Komenský:** „Praotče Čechu! Já ti jednou ty tvoje zatracené bůžky vezmu a vyhodím na smetiště. Podívej, ty jako pohan bys tady v křesťanském nebi správně neměl být. Proč jsem tě naučil číst?“ 
+> **Praotec:** „Všechno už jsem přečet. Až na toho Stanislava Krychli Neumanna.“ 
+> **Komenský:** „Stanislava Kostku Neumanna. Tak toho číst nemusíš. To je pohan jako ty.“
 
 ---
 

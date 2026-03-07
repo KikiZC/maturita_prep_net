@@ -41,6 +41,46 @@
 
 ---
 
+## Děj (Chronologie)
+
+```timeline-labeled
+[line-3, body-4]
+
+date: Začátek
+title: Chengova choroba
+content: Ve světě řádí „bílá nemoc“ (malomocenství), která napadá jen lidi nad 45 let. Lidé jsou v panice, zatímco dr. Sigelius se snaží najít lék na své klinice.
+
+date: Úvod
+title: Dr. Galén a chudí
+content: Skromný lékař Galén objeví lék, ale léčí jím pouze chudé a v utajení. Odmítá jej vydat státu, dokud lídři nesloží zbraně.
+
+date: Průběh
+title: Galénovo ultimátum
+content: Galén veřejně oznámí své podmínky: lék výměnou za věčný mír. Maršál (diktátor) se mu vysměje a chystá se na válku.
+
+date: Prostředek (ÚRYVEK)
+title: Baron Krüg a střet
+content: Zbrojař baron Krüg onemocní. Galén ho odmítá léčit, dokud nepřestane vyrábět zbraně. Maršál Galénovi vyhrožuje (tady sedí tvůj úryvek). Krüg spáchá sebevraždu.
+
+date: Krize
+title: Maršál je nakažen
+content: Maršál se chystá k válečnému projevu, ale dcera na jeho prsou objeví bílou skvrnu. Maršál trpí bolestí, ale zpočátku odmítá couvnout.
+
+date: Vyvrcholení
+title: Maršálova kapitulace
+content: Maršál, drcen nemocí a prosbami své rodiny, nakonec ustoupí a souhlasí s Galénovými podmínkami – podepíše mír.
+
+date: Zlom
+title: Galén v davu
+content: Galén běží s lékem k Maršálovi. Narazí však na rozvášněný dav křičící „Ať žije válka!“. Galén odmítne volat heslo a je ušlapán.
+
+date: ZÁVĚR
+title: Rozbité ampulky a válka
+content: Dav rozbije ampulky s lékem o dlažbu. Lék je nenávratně ztracen, Maršál umírá a válka, která měla být zastavena, pokračuje.
+```
+
+---
+
 ## Ukázka z textu
 
 > [!example]
