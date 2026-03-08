@@ -60,28 +60,28 @@ Tento dokument obsahuje přehled požadavků na vědomosti a dovednosti pro spol
 
 ### 3. Rovnice a nerovnice
 **Žák dovede:**
-* **3.1 Algebraické rovnice a nerovnice**
+* **[[3/3.1-Algebraicke-rovnice-a-nerovnice|3.1 Algebraické rovnice a nerovnice]]**
     * užít pojmy rovnice a nerovnice s jednou neznámou, levá a pravá strana rovnice a nerovnice, obor rovnice a nerovnice, kořen rovnice, množina všech řešení rovnice a nerovnice;
     * užít ekvivalentní úpravy rovnice a nerovnice;
     * provádět zkoušku.
-* **3.2 Lineární rovnice a jejich soustavy**
+* **[[3/3.2-Linearni-rovnice-a-soustavy|3.2 Lineární rovnice a jejich soustavy]]**
     * řešit lineární rovnice o jedné neznámé;
     * vyjádřit neznámou ze vzorce;
     * řešit rovnice v součinovém a podílovém tvaru;
     * řešit početně soustavy lineárních rovnic;
     * řešit graficky soustavu dvou lineárních rovnic o dvou neznámých;
     * užít lineární rovnice a jejich soustavy při řešení slovních úloh.
-* **3.3 Rovnice s neznámou ve jmenovateli**
+* **[[3/3.3-Rovnice-s-neznámou-ve-jmenovateli|3.3 Rovnice s neznámou ve jmenovateli]]**
     * stanovit definiční obor rovnice;
     * řešit rovnice o jedné neznámé s neznámou ve jmenovateli;
     * vyjádřit neznámou ze vzorce;
     * řešit rovnice s neznámou ve jmenovateli při řešení slovních úloh;
     * využít k řešení slovní úlohy nepřímé úměrnosti.
-* **3.4 Kvadratické rovnice**
+* **[[3/3.4-Kvadraticke-rovnice|3.4 Kvadratické rovnice]]**
     * řešit neúplné i úplné kvadratické rovnice a nerovnice;
     * užít vztahy mezi kořeny a koeficienty kvadratické rovnice;
     * užít kvadratickou rovnici při řešení slovní úlohy.
-* **3.5 Lineární nerovnice s jednou neznámou a jejich soustavy**
+* **[[3/3.5-Linearni-nerovnice|3.5 Lineární nerovnice s jednou neznámou a jejich soustavy]]**
     * řešit lineární nerovnice s jednou neznámou a jejich soustavy;
     * řešit nerovnice v součinovém a podílovém tvaru.
 
