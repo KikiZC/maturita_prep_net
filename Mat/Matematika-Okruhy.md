@@ -89,7 +89,7 @@ Tento dokument obsahuje přehled požadavků na vědomosti a dovednosti pro spol
 
 ### 4. Funkce
 **Žák dovede:**
-* **4.1 Základní poznatky o funkcích**
+* **[[4/4.1-Zakladni-poznatky-o-funkcich|4.1 Základní poznatky o funkcích]]**
     * užít různá zadání funkce a používat s porozuměním pojmy definiční obor, obor hodnot, argument funkce, hodnota funkce, graf funkce včetně jeho názvu;
     * sestrojit graf funkce dané předpisem y = f(x) nebo část grafu pro hodnoty proměnné x z dané množiny, určit hodnoty proměnné x pro dané hodnoty funkce f;
     * přiřadit předpis funkce ke grafu funkce a opačně;
@@ -97,7 +97,7 @@ Tento dokument obsahuje přehled požadavků na vědomosti a dovednosti pro spol
     * určit z grafu funkce intervaly monotonie a bod, v němž nabývá funkce extrému;
     * užívat vztahy s elementárními funkcemi;
     * modelovat reálné závislosti užitím elementárních funkcí.
-* **4.2 Lineární funkce, lineární lomená funkce**
+* **[[4/4.2-Linearni-a-lomene-funkce|4.2 Lineární funkce, lineární lomená funkce]]**
     * užít pojem a vlastnosti přímé úměrnosti, sestrojit její graf;
     * určit lineární funkci, sestrojit její graf;
     * objasnit geometrický význam parametrů a, b v předpisu funkce y = ax + b;
@@ -106,18 +106,18 @@ Tento dokument obsahuje přehled požadavků na vědomosti a dovednosti pro spol
     * užít pojem a vlastnosti lineární lomené funkce, sestrojit její graf;
     * určit předpis lineární lomené funkce z daných bodů nebo grafu funkce;
     * řešit reálné problémy pomocí lineární funkce a lineární lomené funkce.
-* **4.3 Kvadratické funkce**
+* **[[4/4.3-Kvadraticke-funkce|4.3 Kvadratické funkce]]**
     * určit kvadratickou funkci, stanovit definiční obor a obor hodnot, sestrojit graf kvadratické funkce;
     * vysvětlit význam parametrů v předpisu kvadratické funkce, určit intervaly monotonie a bod, v němž nabývá funkce extrému;
     * řešit reálné problémy pomocí kvadratické funkce.
-* **4.4 Exponenciální a logaritmické funkce, jednoduché rovnice**
+* **[[4/4.4-Exponencialni-a-logaritmicke-funkce|4.4 Exponenciální a logaritmické funkce, jednoduché rovnice]]**
     * určit exponenciální funkci, stanovit definiční obor a obor hodnot, sestrojit graf;
     * určit logaritmickou funkci, stanovit definiční obor a obor hodnot, sestrojit graf, užít definici logaritmické funkce;
     * vysvětlit význam základu a v předpisech obou funkcí, monotonie;
     * užít logaritmu, věty o logaritmech, řešit jednoduché exponenciální a logaritmické rovnice, užít logaritmování při řešení exponenciální rovnice;
     * upravovat výrazy obsahující exponenciální a logaritmické funkce a stanovit jejich definiční obor;
     * použít poznatky o exponenciálních a logaritmických funkcích v jednoduchých praktických úlohách.
-* **4.5 Goniometrické funkce**
+* **[[4/4.5-Goniometricke-funkce|4.5 Goniometrické funkce]]**
     * užít pojmy orientovaný úhel, velikost úhlu, stupňová míra, oblouková míra a jejich převody;
     * definovat goniometrické funkce v pravoúhlém trojúhelníku;
     * definovat goniometrické funkce v intervalu <0; 2π), resp. (-π/2; π/2) nebo <0; π), resp. v oboru reálných čísel, u každé z nich určit definiční obor a obor hodnot, sestrojit graf;
