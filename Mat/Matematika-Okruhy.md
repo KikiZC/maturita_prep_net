@@ -39,20 +39,20 @@ Tento dokument obsahuje přehled požadavků na vědomosti a dovednosti pro spol
 
 ### 2. Algebraické výrazy
 **Žák dovede:**
-* **2.1 Algebraický výraz**
+* **[[2/2.1-Algebraicky-vyraz|2.1 Algebraický výraz]]**
     * určit hodnotu výrazu;
     * určit nulový bod výrazu;
     * určit definiční obor výrazu;
     * sestavit výraz, interpretovat výraz;
     * modelovat reálné situace užitím výrazů.
-* **2.2 Mnohočleny**
+* **[[2/2.2-Mnohocleny|2.2 Mnohočleny]]**
     * užít pojmy člen, koeficient, stupeň mnohočlenu;
     * provádět operace s mnohočleny, provádět umocnění dvojčlenu pomocí vzorců;
     * rozložit mnohočlen na součin vytýkáním a užitím vzorců.
-* **2.3 Lomené výrazy**
+* **[[2/2.3-Lomene-vyrazy|2.3 Lomené výrazy]]**
     * provádět operace s lomenými výrazy;
     * určit definiční obor lomeného výrazu.
-* **2.4 Výrazy s mocninami a odmocninami**
+* **[[2/2.4-Vyrazy-s-mocninami-a-odmocninami|2.4 Výrazy s mocninami a odmocninami]]**
     * provádět operace s výrazy obsahujícími mocniny a odmocniny;
     * určit definiční obor výrazu s mocninami a odmocninami.
 
